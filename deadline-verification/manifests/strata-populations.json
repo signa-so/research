@@ -1,0 +1,88 @@
+{
+  "inpi-fr": {
+    "direct:2000s": 107336,
+    "direct:2010s": 437442,
+    "direct:2020s": 594568,
+    "direct:pre2000": 101104
+  },
+  "ipau": {
+    "direct:2000s": 95867,
+    "direct:2010s": 247944,
+    "direct:2020s": 289436,
+    "direct:pre2000": 76174,
+    "madrid:2000s": 29405,
+    "madrid:2010s": 96426,
+    "madrid:2020s": 98216
+  },
+  "euipo": {
+    "direct:2000s": 213394,
+    "direct:2010s": 674413,
+    "direct:2020s": 904718,
+    "direct:pre2000": 27113,
+    "madrid:2000s": 30874,
+    "madrid:2010s": 138524,
+    "madrid:2020s": 154078,
+    "madrid:pre2000": 4391
+  },
+  "uspto": {
+    "direct:2000s": 343903,
+    "direct:2010s": 376644,
+    "direct:2020s": 2,
+    "direct:pre2000": 169609,
+    "madrid:2000s": 11923,
+    "madrid:2010s": 51103,
+    "madrid:2020s": 134026
+  },
+  "wipo": {
+    "madrid:2000s": 281998,
+    "madrid:2010s": 561635,
+    "madrid:2020s": 742517,
+    "madrid:pre2000": 206299
+  },
+  "ipi": {
+    "direct:2000s": 42298,
+    "direct:2010s": 92382,
+    "direct:2020s": 109088,
+    "direct:pre2000": 36340,
+    "madrid:2000s": 49289,
+    "madrid:2010s": 100480,
+    "madrid:2020s": 97358,
+    "madrid:pre2000": 50735
+  },
+  "prv": {
+    "direct:2000s": 5680,
+    "direct:2010s": 19016,
+    "direct:2020s": 5,
+    "direct:pre2000": 7166,
+    "madrid:2000s": 3156,
+    "madrid:2010s": 3310,
+    "madrid:pre2000": 2745
+  },
+  "cipo": {
+    "direct:2000s": 105864,
+    "direct:2010s": 293381,
+    "direct:2020s": 277706,
+    "direct:pre2000": 95860,
+    "madrid:2020s": 75791
+  },
+  "ipos": {
+    "direct:2000s": 58770,
+    "direct:2010s": 75665,
+    "direct:2020s": 102021,
+    "direct:pre2000": 27648,
+    "madrid:2000s": 32921,
+    "madrid:2010s": 61956,
+    "madrid:2020s": 78326,
+    "madrid:pre2000": 40
+  },
+  "nipo": {
+    "direct:2000s": 18063,
+    "direct:2010s": 35529,
+    "direct:2020s": 34764,
+    "direct:pre2000": 25981,
+    "madrid:2000s": 29305,
+    "madrid:2010s": 51714,
+    "madrid:2020s": 58992,
+    "madrid:pre2000": 3247
+  }
+}

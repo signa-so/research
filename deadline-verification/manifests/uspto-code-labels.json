@@ -1,0 +1,100 @@
+[
+  {
+    "event_raw_code": "89AG",
+    "label": "REGISTERED - SEC. 8 (10-YR) ACCEPTED/SEC. 9 GRANTED",
+    "n": 602
+  },
+  { "event_raw_code": "E89R", "label": "TEAS SECTION 8 & 9 RECEIVED", "n": 591 },
+  { "event_raw_code": "REM1", "label": "COURTESY REMINDER - SEC. 8 (6-YR) E-MAILED", "n": 549 },
+  {
+    "event_raw_code": "C15A",
+    "label": "REGISTERED - SEC. 8 (6-YR) ACCEPTED & SEC. 15 ACK.",
+    "n": 499
+  },
+  {
+    "event_raw_code": "REM2",
+    "label": "COURTESY REMINDER - SEC. 8 (10-YR)/SEC. 9 E-MAILED",
+    "n": 495
+  },
+  { "event_raw_code": "NA89", "label": "NOTICE OF ACCEPTANCE OF SEC. 8 & 9 - MAILED", "n": 484 },
+  { "event_raw_code": "E815", "label": "TEAS SECTION 8 & 15 RECEIVED", "n": 450 },
+  {
+    "event_raw_code": "RNL1",
+    "label": "REGISTERED AND RENEWED (FIRST RENEWAL - 10 YRS)",
+    "n": 393
+  },
+  { "event_raw_code": "NA85", "label": "NOTICE OF ACCEPTANCE OF SEC. 8 & 15 - MAILED", "n": 380 },
+  {
+    "event_raw_code": "RNL2",
+    "label": "REGISTERED AND RENEWED (SECOND RENEWAL - 10 YRS)",
+    "n": 164
+  },
+  { "event_raw_code": "ES8R", "label": "TEAS SECTION 8 RECEIVED", "n": 134 },
+  { "event_raw_code": "NAS8", "label": "NOTICE OF ACCEPTANCE OF SEC. 8 - MAILED", "n": 133 },
+  { "event_raw_code": "8.OK", "label": "REGISTERED - SEC. 8 (6-YR) ACCEPTED", "n": 130 },
+  { "event_raw_code": "815F", "label": "REGISTERED - SEC. 8 (6-YR) & SEC. 15 FILED", "n": 119 },
+  {
+    "event_raw_code": "89AF",
+    "label": "REGISTERED - COMBINED SECTION 8 (10-YR) & SEC. 9 FILED",
+    "n": 82
+  },
+  {
+    "event_raw_code": "PR89",
+    "label": "RESPONSE RECEIVED TO POST REG. ACTION - SEC. 8 & 9",
+    "n": 56
+  },
+  { "event_raw_code": "RNL3", "label": "REGISTERED AND RENEWED (THIRD RENEWAL - 10 YRS)", "n": 52 },
+  { "event_raw_code": "ES71", "label": "TEAS SECTION 71 RECEIVED", "n": 38 },
+  { "event_raw_code": "REM3", "label": "COURTESY REMINDER - SEC. 71 (6-YR) E-MAILED", "n": 37 },
+  { "event_raw_code": "NA71", "label": "NOTICE OF ACCEPTANCE OF SEC. 71 - MAILED", "n": 35 },
+  { "event_raw_code": "PR23", "label": "POST REGISTRATION ACTION MAILED - SEC. 8 & 15", "n": 32 },
+  { "event_raw_code": "RNWL", "label": "INTERNATIONAL REGISTRATION RENEWED", "n": 30 },
+  { "event_raw_code": "ES75", "label": "TEAS SECTION 71 & 15 RECEIVED", "n": 24 },
+  { "event_raw_code": "REM4", "label": "COURTESY REMINDER - SEC. 71 (10-YR) E-MAILED", "n": 24 },
+  { "event_raw_code": "PRA8", "label": "RESPONSE RECEIVED TO POST REG. ACTION - SEC. 8", "n": 23 },
+  { "event_raw_code": "NA75", "label": "NOTICE OF ACCEPTANCE OF SEC. 71 & 15 - MAILED", "n": 22 },
+  { "event_raw_code": "C75A", "label": "REGISTERED - SEC. 71 ACCEPTED & SEC. 15 ACK.", "n": 19 },
+  { "event_raw_code": "8PRT", "label": "REGISTERED - PARTIAL SEC. 8 (10-YR) ACCEPTED", "n": 16 },
+  {
+    "event_raw_code": "9.AF",
+    "label": "REGISTERED - SEC. 9 FILED/CHECK RECORD FOR SEC. 8",
+    "n": 15
+  },
+  {
+    "event_raw_code": "C15P",
+    "label": "REGISTERED - PARTIAL SEC. 8 (6-YR) ACCEPTED & SEC. 15 ACK.",
+    "n": 15
+  },
+  {
+    "event_raw_code": "9G8P",
+    "label": "REGISTERED - SEC. 9 GRANTED/CHECK RECORD FOR SEC. 8",
+    "n": 15
+  },
+  {
+    "event_raw_code": "RNL4",
+    "label": "REGISTERED AND RENEWED (FOURTH RENEWAL - 10 YRS)",
+    "n": 12
+  },
+  { "event_raw_code": "E15R", "label": "TEAS SECTION 15 RECEIVED", "n": 12 },
+  { "event_raw_code": "8.AF", "label": "REGISTERED - SEC. 8 (6-YR) FILED", "n": 10 },
+  { "event_raw_code": "REN1", "label": "REGISTERED AND RENEWED (FIRST RENEWAL - 20 YRS)", "n": 9 },
+  { "event_raw_code": "NA15", "label": "SEC. 15 ACKNOWLEDGEMENT - E-MAILED", "n": 9 },
+  { "event_raw_code": "RNL5", "label": "REGISTERED AND RENEWED (FIFTH RENEWAL - 10 YRS)", "n": 3 },
+  {
+    "event_raw_code": "C75P",
+    "label": "REGISTERED - PARTIAL SEC. 71 ACCEPTED & SEC. 15 ACK.",
+    "n": 3
+  },
+  { "event_raw_code": "715F", "label": "REGISTERED - SEC. 71 & SEC. 15 FILED", "n": 3 },
+  { "event_raw_code": "REN2", "label": "REGISTERED AND RENEWED (SECOND RENEWAL - 20 YRS)", "n": 2 },
+  { "event_raw_code": "PR75", "label": "POST REGISTRATION ACTION MAILED - SEC. 71 & 15", "n": 2 },
+  {
+    "event_raw_code": "NP89",
+    "label": "NOTICE OF ACCEPTANCE OF PARTIAL SEC. 8 & 9 EMAILED",
+    "n": 2
+  },
+  { "event_raw_code": "RNL6", "label": "REGISTERED AND RENEWED (SIXTH RENEWAL - 10 YRS)", "n": 2 },
+  { "event_raw_code": "REN3", "label": "REGISTERED AND RENEWED (THIRD RENEWAL - 20 YRS)", "n": 1 },
+  { "event_raw_code": "PRA9", "label": "POST REGISTRATION ACTION MAILED - SEC. 9", "n": 1 },
+  { "event_raw_code": "8.PR", "label": "REGISTERED - PARTIAL SEC. 8 (6-YR) ACCEPTED", "n": 1 }
+]

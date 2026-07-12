@@ -1,0 +1,579 @@
+{
+  "as_of_date": "2026-07-07",
+  "seed": "tr006-deadline-eval-2026-07-07",
+  "min_cell_n": 50,
+  "dataset": "large (quota 5000, tag -large)",
+  "total_records": 306896,
+  "headline": {
+    "direct_agreement": {
+      "k": 271313,
+      "n": 282393,
+      "point": 0.9607638999550272,
+      "lower": 0.960041511724459,
+      "upper": 0.9614737525951369
+    },
+    "event_consistency": {
+      "k": 223545,
+      "n": 273514,
+      "point": 0.8173073407576943,
+      "lower": 0.8158547442260954,
+      "upper": 0.8187510243562591
+    },
+    "records_compared": 282393,
+    "events_checked": 273514
+  },
+  "coverage": {
+    "uspto": {
+      "computed": 15002,
+      "no_renewal_instances": 15000
+    },
+    "wipo": {
+      "no_config": 9215,
+      "computed": 10497,
+      "no_trigger_date": 288
+    },
+    "inpi-fr": {
+      "computed": 20000
+    },
+    "euipo": {
+      "computed": 39391
+    },
+    "ipau": {
+      "computed": 35000
+    },
+    "cipo": {
+      "computed": 25000
+    },
+    "ipi": {
+      "computed": 40000
+    },
+    "ipos": {
+      "computed": 35040
+    },
+    "prv": {
+      "computed": 24216
+    },
+    "nipo": {
+      "computed": 38247
+    }
+  },
+  "direct_cells": [
+    {
+      "office": "cipo",
+      "route_group": "direct",
+      "deadline_type": "renewal",
+      "n": 20000,
+      "refused": false,
+      "agreement": {
+        "k": 19958,
+        "n": 20000,
+        "point": 0.9979,
+        "lower": 0.9971628472298933,
+        "upper": 0.9984459232624215
+      },
+      "off_by": {
+        "exact": 19958,
+        "within1": 8,
+        "within2to7": 0,
+        "over7": 34,
+        "total": 20000
+      }
+    },
+    {
+      "office": "cipo",
+      "route_group": "madrid",
+      "deadline_type": "renewal",
+      "n": 5000,
+      "refused": false,
+      "agreement": {
+        "k": 4463,
+        "n": 5000,
+        "point": 0.8926,
+        "lower": 0.883714500130426,
+        "upper": 0.9008827002928127
+      },
+      "off_by": {
+        "exact": 4463,
+        "within1": 11,
+        "within2to7": 3,
+        "over7": 523,
+        "total": 5000
+      }
+    },
+    {
+      "office": "euipo",
+      "route_group": "direct",
+      "deadline_type": "renewal",
+      "n": 20000,
+      "refused": false,
+      "agreement": {
+        "k": 19994,
+        "n": 20000,
+        "point": 0.9997,
+        "lower": 0.999345578875415,
+        "upper": 0.999862500287087
+      },
+      "off_by": {
+        "exact": 19994,
+        "within1": 6,
+        "within2to7": 0,
+        "over7": 0,
+        "total": 20000
+      }
+    },
+    {
+      "office": "euipo",
+      "route_group": "madrid",
+      "deadline_type": "renewal",
+      "n": 19391,
+      "refused": false,
+      "agreement": {
+        "k": 19374,
+        "n": 19391,
+        "point": 0.9991233046258574,
+        "lower": 0.9985963512362407,
+        "upper": 0.9994525392916082
+      },
+      "off_by": {
+        "exact": 19374,
+        "within1": 14,
+        "within2to7": 0,
+        "over7": 3,
+        "total": 19391
+      }
+    },
+    {
+      "office": "inpi-fr",
+      "route_group": "direct",
+      "deadline_type": "renewal",
+      "n": 20000,
+      "refused": false,
+      "agreement": {
+        "k": 19795,
+        "n": 20000,
+        "point": 0.98975,
+        "lower": 0.9882570081839104,
+        "upper": 0.9910548924961684
+      },
+      "off_by": {
+        "exact": 19795,
+        "within1": 17,
+        "within2to7": 28,
+        "over7": 160,
+        "total": 20000
+      }
+    },
+    {
+      "office": "ipau",
+      "route_group": "direct",
+      "deadline_type": "renewal",
+      "n": 20000,
+      "refused": false,
+      "agreement": {
+        "k": 17097,
+        "n": 20000,
+        "point": 0.85485,
+        "lower": 0.8498999750600772,
+        "upper": 0.8596637369487558
+      },
+      "off_by": {
+        "exact": 17097,
+        "within1": 8,
+        "within2to7": 1,
+        "over7": 2894,
+        "total": 20000
+      }
+    },
+    {
+      "office": "ipau",
+      "route_group": "madrid",
+      "deadline_type": "renewal",
+      "n": 15000,
+      "refused": false,
+      "agreement": {
+        "k": 13399,
+        "n": 15000,
+        "point": 0.8932666666666667,
+        "lower": 0.8882242636845545,
+        "upper": 0.8981076921904092
+      },
+      "off_by": {
+        "exact": 13399,
+        "within1": 32,
+        "within2to7": 16,
+        "over7": 1553,
+        "total": 15000
+      }
+    },
+    {
+      "office": "ipi",
+      "route_group": "direct",
+      "deadline_type": "renewal",
+      "n": 20000,
+      "refused": false,
+      "agreement": {
+        "k": 19991,
+        "n": 20000,
+        "point": 0.99955,
+        "lower": 0.9991449078883,
+        "upper": 0.9997632288850199
+      },
+      "off_by": {
+        "exact": 19991,
+        "within1": 9,
+        "within2to7": 0,
+        "over7": 0,
+        "total": 20000
+      }
+    },
+    {
+      "office": "ipi",
+      "route_group": "madrid",
+      "deadline_type": "renewal",
+      "n": 20000,
+      "refused": false,
+      "agreement": {
+        "k": 19987,
+        "n": 20000,
+        "point": 0.99935,
+        "lower": 0.9988881316441914,
+        "upper": 0.9996200819435518
+      },
+      "off_by": {
+        "exact": 19987,
+        "within1": 13,
+        "within2to7": 0,
+        "over7": 0,
+        "total": 20000
+      }
+    },
+    {
+      "office": "ipos",
+      "route_group": "direct",
+      "deadline_type": "renewal",
+      "n": 20000,
+      "refused": false,
+      "agreement": {
+        "k": 16509,
+        "n": 20000,
+        "point": 0.82545,
+        "lower": 0.8201269978373973,
+        "upper": 0.8306480058917127
+      },
+      "off_by": {
+        "exact": 16509,
+        "within1": 2,
+        "within2to7": 2,
+        "over7": 3487,
+        "total": 20000
+      }
+    },
+    {
+      "office": "ipos",
+      "route_group": "madrid",
+      "deadline_type": "renewal",
+      "n": 15040,
+      "refused": false,
+      "agreement": {
+        "k": 12981,
+        "n": 15040,
+        "point": 0.8630984042553191,
+        "lower": 0.8575119860740934,
+        "upper": 0.8684993874073839
+      },
+      "off_by": {
+        "exact": 12981,
+        "within1": 32,
+        "within2to7": 17,
+        "over7": 2010,
+        "total": 15040
+      }
+    },
+    {
+      "office": "nipo",
+      "route_group": "direct",
+      "deadline_type": "renewal",
+      "n": 20000,
+      "refused": false,
+      "agreement": {
+        "k": 19892,
+        "n": 20000,
+        "point": 0.9946,
+        "lower": 0.9934850109530187,
+        "upper": 0.9955250269772866
+      },
+      "off_by": {
+        "exact": 19892,
+        "within1": 10,
+        "within2to7": 2,
+        "over7": 96,
+        "total": 20000
+      }
+    },
+    {
+      "office": "nipo",
+      "route_group": "madrid",
+      "deadline_type": "renewal",
+      "n": 18247,
+      "refused": false,
+      "agreement": {
+        "k": 18213,
+        "n": 18247,
+        "point": 0.9981366800021921,
+        "lower": 0.9973974372263239,
+        "upper": 0.9986662259728138
+      },
+      "off_by": {
+        "exact": 18213,
+        "within1": 7,
+        "within2to7": 2,
+        "over7": 25,
+        "total": 18247
+      }
+    },
+    {
+      "office": "prv",
+      "route_group": "direct",
+      "deadline_type": "renewal",
+      "n": 15005,
+      "refused": false,
+      "agreement": {
+        "k": 14972,
+        "n": 15005,
+        "point": 0.9978007330889703,
+        "lower": 0.9969131321051077,
+        "upper": 0.9984335134655957
+      },
+      "off_by": {
+        "exact": 14972,
+        "within1": 33,
+        "within2to7": 0,
+        "over7": 0,
+        "total": 15005
+      }
+    },
+    {
+      "office": "prv",
+      "route_group": "madrid",
+      "deadline_type": "renewal",
+      "n": 9211,
+      "refused": false,
+      "agreement": {
+        "k": 9207,
+        "n": 9211,
+        "point": 0.9995657366192596,
+        "lower": 0.9988838470343055,
+        "upper": 0.9998311109023954
+      },
+      "off_by": {
+        "exact": 9207,
+        "within1": 2,
+        "within2to7": 0,
+        "over7": 2,
+        "total": 9211
+      }
+    },
+    {
+      "office": "uspto",
+      "route_group": "direct",
+      "deadline_type": "combined_renewal_and_use",
+      "n": 15002,
+      "refused": false,
+      "agreement": {
+        "k": 14987,
+        "n": 15002,
+        "point": 0.9990001333155579,
+        "lower": 0.9983508296315662,
+        "upper": 0.9993939513609542
+      },
+      "off_by": {
+        "exact": 14987,
+        "within1": 10,
+        "within2to7": 0,
+        "over7": 5,
+        "total": 15002
+      }
+    },
+    {
+      "office": "wipo",
+      "route_group": "madrid",
+      "deadline_type": "international_renewal",
+      "n": 7771,
+      "refused": false,
+      "agreement": {
+        "k": 7769,
+        "n": 7771,
+        "point": 0.999742632865783,
+        "lower": 0.9990620138561429,
+        "upper": 0.9999294178119152
+      },
+      "off_by": {
+        "exact": 7769,
+        "within1": 2,
+        "within2to7": 0,
+        "over7": 0,
+        "total": 7771
+      }
+    },
+    {
+      "office": "wipo",
+      "route_group": "madrid",
+      "deadline_type": "renewal",
+      "n": 2726,
+      "refused": false,
+      "agreement": {
+        "k": 2725,
+        "n": 2726,
+        "point": 0.9996331621423331,
+        "lower": 0.9979249060270619,
+        "upper": 0.999935241175886
+      },
+      "off_by": {
+        "exact": 2725,
+        "within1": 0,
+        "within2to7": 1,
+        "over7": 0,
+        "total": 2726
+      }
+    }
+  ],
+  "event_cells": [
+    {
+      "office": "cipo",
+      "route_group": "direct",
+      "n": 21008,
+      "refused": false,
+      "agreement": {
+        "k": 18316,
+        "n": 21008,
+        "point": 0.8718583396801218,
+        "lower": 0.8672704086245303,
+        "upper": 0.8763103018322412
+      }
+    },
+    {
+      "office": "cipo",
+      "route_group": "madrid",
+      "n": 222,
+      "refused": false,
+      "agreement": {
+        "k": 0,
+        "n": 222,
+        "point": 0,
+        "lower": 0,
+        "upper": 0.017009538019833195
+      }
+    },
+    {
+      "office": "inpi-fr",
+      "route_group": "direct",
+      "n": 29723,
+      "refused": false,
+      "agreement": {
+        "k": 26805,
+        "n": 29723,
+        "point": 0.9018268680819568,
+        "lower": 0.8983920915279782,
+        "upper": 0.905157792271178
+      }
+    },
+    {
+      "office": "ipau",
+      "route_group": "direct",
+      "n": 67057,
+      "refused": false,
+      "agreement": {
+        "k": 39186,
+        "n": 67057,
+        "point": 0.5843685223019223,
+        "lower": 0.5806336657798463,
+        "upper": 0.5880937130279167
+      }
+    },
+    {
+      "office": "ipau",
+      "route_group": "madrid",
+      "n": 18581,
+      "refused": false,
+      "agreement": {
+        "k": 15703,
+        "n": 18581,
+        "point": 0.8451105968462408,
+        "lower": 0.8398371818145524,
+        "upper": 0.8502413441914475
+      }
+    },
+    {
+      "office": "ipi",
+      "route_group": "direct",
+      "n": 20216,
+      "refused": false,
+      "agreement": {
+        "k": 20107,
+        "n": 20216,
+        "point": 0.994608231104076,
+        "lower": 0.993500527451167,
+        "upper": 0.9955279988440353
+      }
+    },
+    {
+      "office": "ipos",
+      "route_group": "madrid",
+      "n": 2,
+      "refused": true,
+      "agreement": null
+    },
+    {
+      "office": "prv",
+      "route_group": "direct",
+      "n": 50062,
+      "refused": false,
+      "agreement": {
+        "k": 43810,
+        "n": 50062,
+        "point": 0.875114857576605,
+        "lower": 0.8721901547758167,
+        "upper": 0.8779819966469474
+      }
+    },
+    {
+      "office": "prv",
+      "route_group": "madrid",
+      "n": 2401,
+      "refused": false,
+      "agreement": {
+        "k": 2335,
+        "n": 2401,
+        "point": 0.9725114535610162,
+        "lower": 0.965178488030527,
+        "upper": 0.9783348532005045
+      }
+    },
+    {
+      "office": "uspto",
+      "route_group": "direct",
+      "n": 44332,
+      "refused": false,
+      "agreement": {
+        "k": 44139,
+        "n": 44332,
+        "point": 0.9956464856085897,
+        "lower": 0.9949892031952936,
+        "upper": 0.9962178778918478
+      }
+    },
+    {
+      "office": "uspto",
+      "route_group": "madrid",
+      "n": 19910,
+      "refused": false,
+      "agreement": {
+        "k": 13143,
+        "n": 19910,
+        "point": 0.6601205424409844,
+        "lower": 0.653510812791192,
+        "upper": 0.6666684963172668
+      }
+    }
+  ]
+}

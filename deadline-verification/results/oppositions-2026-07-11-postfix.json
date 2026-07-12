@@ -1,0 +1,208 @@
+{
+ "headline": {
+  "consistent": 21430,
+  "n": 23751
+ },
+ "cells": [
+  {
+   "cell": "cipo|direct",
+   "n": 4000,
+   "opposer_side": 0,
+   "in_window": 1168,
+   "in_extension": 2465,
+   "early": 2,
+   "beyond": 365,
+   "uncomputable": 0,
+   "early_days_median": 1,
+   "beyond_days_median": 302,
+   "consistency": {
+    "rate": 0.90825,
+    "k": 3633,
+    "n": 4000,
+    "point": 0.90825,
+    "lower": 0.8989081289090974,
+    "upper": 0.9168084856325147
+   }
+  },
+  {
+   "cell": "cipo|madrid",
+   "n": 1368,
+   "opposer_side": 0,
+   "in_window": 1058,
+   "in_extension": 308,
+   "early": 0,
+   "beyond": 2,
+   "uncomputable": 0,
+   "early_days_median": null,
+   "beyond_days_median": 167,
+   "consistency": {
+    "rate": 0.9985380116959064,
+    "k": 1366,
+    "n": 1368,
+    "point": 0.9985380116959064,
+    "lower": 0.9946850119697341,
+    "upper": 0.9995989784793586
+   }
+  },
+  {
+   "cell": "euipo|direct",
+   "n": 4000,
+   "opposer_side": 0,
+   "in_window": 3929,
+   "in_extension": 0,
+   "early": 8,
+   "beyond": 63,
+   "uncomputable": 0,
+   "early_days_median": 1,
+   "beyond_days_median": 2,
+   "consistency": {
+    "rate": 0.98225,
+    "k": 3929,
+    "n": 4000,
+    "point": 0.98225,
+    "lower": 0.9776712524037318,
+    "upper": 0.9859033645287664
+   }
+  },
+  {
+   "cell": "euipo|madrid",
+   "n": 4000,
+   "opposer_side": 0,
+   "in_window": 3918,
+   "in_extension": 0,
+   "early": 3,
+   "beyond": 79,
+   "uncomputable": 0,
+   "early_days_median": 19,
+   "beyond_days_median": 8,
+   "consistency": {
+    "rate": 0.9795,
+    "k": 3918,
+    "n": 4000,
+    "point": 0.9795,
+    "lower": 0.9746266680497102,
+    "upper": 0.9834532258209647
+   }
+  },
+  {
+   "cell": "ipau|direct",
+   "n": 4000,
+   "opposer_side": 2161,
+   "in_window": 1587,
+   "in_extension": 78,
+   "early": 15,
+   "beyond": 159,
+   "uncomputable": 0,
+   "early_days_median": 1,
+   "beyond_days_median": 60,
+   "consistency": {
+    "rate": 0.9053833605220228,
+    "k": 1665,
+    "n": 1839,
+    "point": 0.9053833605220228,
+    "lower": 0.8911486299476693,
+    "upper": 0.9179280232903783
+   }
+  },
+  {
+   "cell": "ipau|madrid",
+   "n": 4000,
+   "opposer_side": 2500,
+   "in_window": 1337,
+   "in_extension": 85,
+   "early": 15,
+   "beyond": 63,
+   "uncomputable": 0,
+   "early_days_median": 384,
+   "beyond_days_median": 60,
+   "consistency": {
+    "rate": 0.948,
+    "k": 1422,
+    "n": 1500,
+    "point": 0.948,
+    "lower": 0.9355758616644476,
+    "upper": 0.9581353683742548
+   }
+  },
+  {
+   "cell": "ipos|direct",
+   "n": 4000,
+   "opposer_side": 9,
+   "in_window": 2320,
+   "in_extension": 709,
+   "early": 789,
+   "beyond": 173,
+   "uncomputable": 0,
+   "early_days_median": 204,
+   "beyond_days_median": 2,
+   "consistency": {
+    "rate": 0.758957654723127,
+    "k": 3029,
+    "n": 3991,
+    "point": 0.758957654723127,
+    "lower": 0.7454429360732449,
+    "upper": 0.771974343504813
+   }
+  },
+  {
+   "cell": "ipos|madrid",
+   "n": 1468,
+   "opposer_side": 22,
+   "in_window": 1040,
+   "in_extension": 218,
+   "early": 159,
+   "beyond": 29,
+   "uncomputable": 0,
+   "early_days_median": 263,
+   "beyond_days_median": 2,
+   "consistency": {
+    "rate": 0.8699861687413555,
+    "k": 1258,
+    "n": 1446,
+    "point": 0.8699861687413555,
+    "lower": 0.8516664672838924,
+    "upper": 0.886345260443646
+   }
+  },
+  {
+   "cell": "uspto|direct",
+   "n": 4000,
+   "opposer_side": 2496,
+   "in_window": 304,
+   "in_extension": 828,
+   "early": 201,
+   "beyond": 171,
+   "uncomputable": 0,
+   "early_days_median": 552,
+   "beyond_days_median": 121,
+   "consistency": {
+    "rate": 0.7526595744680851,
+    "k": 1132,
+    "n": 1504,
+    "point": 0.7526595744680851,
+    "lower": 0.7302284192728672,
+    "upper": 0.7738033511255022
+   }
+  },
+  {
+   "cell": "uspto|madrid",
+   "n": 296,
+   "opposer_side": 193,
+   "in_window": 28,
+   "in_extension": 50,
+   "early": 14,
+   "beyond": 11,
+   "uncomputable": 0,
+   "early_days_median": 212,
+   "beyond_days_median": 29,
+   "consistency": {
+    "rate": 0.7572815533980582,
+    "k": 78,
+    "n": 103,
+    "point": 0.7572815533980582,
+    "lower": 0.6662124814188362,
+    "upper": 0.829849632997671
+   }
+  }
+ ]
+}

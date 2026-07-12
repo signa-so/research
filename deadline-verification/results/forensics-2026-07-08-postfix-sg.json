@@ -1,0 +1,1538 @@
+{
+  "as_of_date": "2026-07-07",
+  "arm_a": {
+    "total_disagreements": 1199,
+    "clusters": [
+      {
+        "office": "ipos",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "unexplained",
+        "n": 315,
+        "example_ids": [
+          "019df6bf-0114-7140-8d12-8b18f2d4382f",
+          "019df6b3-c1db-760a-bf7b-d4f66b2587bc",
+          "019df698-ddcb-75aa-939e-407dd7c29008",
+          "019df696-de2e-75fe-9fb9-5ebb0e50df61",
+          "019df6b6-8a74-743e-a159-a10dfdc56e47",
+          "019df68e-e3fc-7792-839e-f2453a0d667f",
+          "019df687-b900-75e9-83fc-e32fd788344a",
+          "019df6c8-0952-733e-9dfb-8e9314e4036a",
+          "019df656-b98f-7511-947f-a078a44bb0a8",
+          "019df672-96cc-734b-9c04-17b350dcc174",
+          "019df676-df36-730e-9aa8-e086ed693168",
+          "019df688-2056-70ff-8c88-923ea2c1e12a",
+          "019df696-eab1-76da-a967-85bd83522f9f",
+          "019df657-9dc5-7763-ae7f-6439507001a2",
+          "019df6c5-24f8-731e-83c4-12d5ff9d9048",
+          "019df6a9-e50a-7308-9497-f37bdf9cb7ab",
+          "019df6b2-94be-7279-9e57-84731c4d6e27",
+          "019df6c6-b590-75da-99d2-783cd8713d83",
+          "019df692-0de6-731b-b339-820c67e6f81f",
+          "019df64f-5eee-713e-909b-0ad634aa1254",
+          "019df6c8-3aa4-7155-a655-d9abce22ee5d",
+          "019df6ca-3467-73a5-b51e-37f10e737626",
+          "019df682-7594-74b4-9023-f6e4e5abbb21",
+          "019df6a2-cb28-734c-ae9b-ad5009a9419f",
+          "019df6ba-dc44-7117-9dcc-beb0250ca607",
+          "019df6a1-3a4b-765f-ab69-4eb7ef8d1640",
+          "019df651-b534-71e4-8f46-b5639658d9eb",
+          "019df673-ad1c-7431-b23e-dac8e1e311c8",
+          "019df68e-04d7-750a-8393-a455ec9c9421",
+          "019df676-0d8f-701d-8c26-b3ecc66b39e5",
+          "019df6a9-dd0b-74bd-93c3-68d06ba810d6",
+          "019df6b3-0b6f-74c8-b17c-7fb813d51d11",
+          "019df6bb-ee73-747c-a0f5-bcb802df532f",
+          "019df655-d500-730d-bf7f-de84222d1e38",
+          "019df64e-d9d8-71cf-859f-1d9224392089",
+          "019df67d-f0ed-725e-942d-f1aeb78c7682",
+          "019df669-99b9-725e-9c03-a7e2de2bf3f0",
+          "019df6a8-50a1-72b6-a0d6-9af05601e3e5",
+          "019df668-5400-702e-85f9-b5a0979e55a7",
+          "019df67d-df52-7029-8250-0f04156242ca",
+          "019df691-6b6f-76fa-addc-d85b56dd8745",
+          "019df69c-ffaf-76a5-8978-d69f4bf34035",
+          "019df6b8-9169-7098-9cdb-6794d9764bb0",
+          "019df65a-d1c9-721a-8cc1-9ae4d6446b6c",
+          "019df688-aa83-73ab-83d2-d0e68831f734",
+          "019df669-7f7d-727a-9ba8-9c31bf7cf5f4",
+          "019df65f-90f3-7148-8cce-e1f7645fea13",
+          "019df674-c709-706e-b7c7-a6965fc20565",
+          "019df65e-4522-706b-ba5b-afd897ae8146",
+          "019df65a-18bc-7279-922b-4e4b3ee8b028",
+          "019df675-d546-719d-ad82-d9c01173a8db",
+          "019df69f-5808-709b-9945-fe2409941ed3",
+          "019df69b-b8d8-7338-95b9-311a240c99bd",
+          "019df6a0-06b9-74cd-80da-7af56b61d908",
+          "019df67f-3525-7613-a794-8a46385d82ef",
+          "019df6b3-ae2e-7378-af26-c75afaf98616",
+          "019df691-3506-72b9-852b-a33114fc03b9",
+          "019df671-1e50-771c-bf4e-faa77b8b81bb",
+          "019df690-c4d3-7211-961c-32d987260972",
+          "019df672-2559-7279-89a6-14a90388dcdf",
+          "019df6a0-1f0a-75d8-984e-e47e375f0265",
+          "019df651-09c8-755f-a115-60c48514b88e",
+          "019df657-9810-77fc-990a-52846b8fbd86",
+          "019df6be-a2fa-71f9-ad00-37949c5a243c",
+          "019df6a2-112b-7554-b27b-ec902aa5bfe4",
+          "019df671-bc6f-731c-9465-de59945542ff",
+          "019df6a5-ac8e-765b-a4ae-c50244d6720d",
+          "019df65b-bcc1-7279-af64-7bd2bc5767db",
+          "019df6b7-8c74-71a4-a3b2-459311b68db3",
+          "019df671-85df-7396-a073-c366b47da01e",
+          "019df676-6b8b-71e3-b015-5d50c92b307f",
+          "019df660-d0c9-74d9-9266-c3b8667069e3",
+          "019df699-f44d-736d-848d-c8f74de69ed3",
+          "019df65b-d983-72d9-8907-08d509089111",
+          "019df678-c499-7122-8b9d-4226b016f03b",
+          "019df6bc-472c-70fa-8269-52a8969a96a0",
+          "019df6be-e643-7680-a4f7-f46a336f3023",
+          "019df668-1518-71f8-8241-6aae21d6a2e2",
+          "019df6a5-b21d-770d-baf7-7b71ff05f874",
+          "019df6b3-1023-7418-9ed1-4f1628e38452",
+          "019df6cb-c8f4-749b-bbf5-44e6d9c91c2c",
+          "019df668-07fd-743c-83c7-fe09ac4ba620",
+          "019df679-45cc-7202-9fd3-e1a4ffd47b0b",
+          "019df6cd-175e-778d-af12-2b639c34d1f3",
+          "019df6b3-443b-74e8-9626-12c35a9caf9f",
+          "019df67d-f43e-70bd-afb7-8f7c67c1a81c",
+          "019df64f-70b9-722e-89b2-b1b1113c668a",
+          "019df6bf-8de4-720e-9258-f14167dd4b08",
+          "019df67d-2361-77ab-a701-95bca692904a",
+          "019df675-d5f8-7409-ac1d-7e73e46983c5",
+          "019df69c-01c3-765e-a54e-d8dde43c394a",
+          "019df667-13f2-777f-bc57-97b546837917",
+          "019df654-7132-726e-85a2-0da85198b01f",
+          "019df6c6-a411-7686-9ff9-4faacb5addc8",
+          "019df6b7-e6cc-7795-804e-16dc1e186336",
+          "019df6b7-9fef-739e-98b9-6f7f1746a13a",
+          "019df672-79de-770a-bdfe-71d63d666009",
+          "019df650-2eea-711e-bf97-15eacaf73ad0",
+          "019df691-684f-705f-9483-19a2817f67b4",
+          "019df67d-1246-70b8-8c29-3cf9bb21ef5f",
+          "019df65a-acd1-770e-ac9f-aa08d85900ba",
+          "019df651-47a0-774b-a48f-f50208a5eeb5",
+          "019df6b3-1087-7399-a796-179d195c74f2",
+          "019df6c5-6830-76fb-881e-ca781e157763",
+          "019df6a6-ecf2-7198-96f4-c5355d887508",
+          "019df67c-2510-74be-b8d1-dd320903ca65",
+          "019df695-ccef-71f4-81de-65bbf339be10",
+          "019df694-c2b6-7698-a3c3-6ce42e5d91c4",
+          "019df691-8484-75d3-ae37-cc5e52277222",
+          "019df674-1a73-72ce-97e4-e91046f98f63",
+          "019df661-2c50-70de-a996-ab9b7905fcf3",
+          "019df64f-c537-76e9-8067-2074b32dcbcd",
+          "019df6a6-5492-77ff-8cd7-cc4508b4c8fb",
+          "019df68f-e16a-75eb-9966-b565b048084c",
+          "019df66f-0d1d-7011-aa36-07f414ee658d",
+          "019df672-2bc8-7559-b42d-2462f8d87853",
+          "019df69b-01ce-700b-88ce-4c7d93061bd8",
+          "019df6cb-c7b5-74bd-aeab-57cdf7a581b2",
+          "019df6b3-20f7-7308-bc1b-b5fe8194967c",
+          "019df67f-835b-7489-9c30-3b3b77be7580",
+          "019df6bc-132c-75fd-a388-7c81f525aabd",
+          "019df69b-9c68-749e-b655-c21a5450a2a9",
+          "019df67d-1c32-7151-8e9b-35ad7b68b568",
+          "019df64f-1688-72fa-abce-b1f8b5213b5b",
+          "019df67f-7a0e-76cd-ab3f-b39b1284fb09",
+          "019df64f-e071-71ad-953f-9249789b238f",
+          "019df69d-409a-759c-8390-5687aaf84139",
+          "019df663-2d84-715c-a6dc-106d3b807bef",
+          "019df651-33ec-710e-9a7f-7b87d1679953",
+          "019df6bc-7e95-716c-b319-e69a48ab29a1",
+          "019df67d-e1f2-733e-9cbf-3dc798349c1c",
+          "019df6b1-a783-70de-a768-5f8e137e9f17",
+          "019df67f-cc5d-71fa-bb9e-9a54256e185d",
+          "019df67b-4126-70a9-b4e6-f463123468a0",
+          "019df6cb-3905-70dc-9171-3a50bd20c632",
+          "019df666-3f28-7203-a65e-41defad9cec7",
+          "019df69b-4996-769e-a71f-a2bb1235742c",
+          "019df6be-ac64-732e-a238-245b5ef17842",
+          "019df6a2-10a9-7711-91a8-4d0100729470",
+          "019df6be-c58d-753e-b418-c631d153d9f5",
+          "019df6c5-e3a6-728b-9041-9a453c8819eb",
+          "019df6c0-5a3e-756b-8c44-457e5540da40",
+          "019df672-1bd3-7529-824e-c37d2862f2d3",
+          "019df6cb-df6f-7219-8316-8bb21fdad5cb",
+          "019df66f-00ce-77fa-85a7-6cb2bec0186f",
+          "019df67f-d2b3-772c-ab58-da7cbce9a69f",
+          "019df6b2-f157-7304-8d90-f74e375fdddd",
+          "019df652-6cc1-746d-9edb-603f2c29e58e",
+          "019df684-5091-7084-99b7-3daee6b724f1",
+          "019df6bf-9f19-76b2-92ce-c7c3bf26bc3e",
+          "019df667-d951-7732-b881-32314311395f",
+          "019df6a6-76b9-76cd-8643-a3f92107a95e",
+          "019df684-5c7b-751b-8605-4c3d72aefc26",
+          "019df6bc-0451-71a9-a711-04d40842e7a2",
+          "019df691-e0ca-74ff-8e1f-f68861a92c79",
+          "019df691-1158-76fb-8852-b84bc1574f34",
+          "019df657-1f19-73bf-b4de-c070a22621ec",
+          "019df67c-7a5c-7793-81ab-e72d55941818",
+          "019df6ab-5e47-751c-8304-90611a44bc80",
+          "019df6b2-ccdb-70cd-90f0-b38fb2807fb4",
+          "019df69d-e550-70ad-a88d-9db691a054b5",
+          "019df65d-15cd-75f7-b81e-4275baeddda9",
+          "019df6aa-d51a-7248-a224-604a9de8f6f7",
+          "019df67c-29a6-737d-a254-296e242ac4e2",
+          "019df666-e6b4-74cf-afee-93de561a38e4",
+          "019df65e-7297-762a-af82-ebd0b0e43eec",
+          "019df6be-86e3-748f-841e-b61bb4f681df",
+          "019df67a-7329-7084-80d4-5a72d1b39d70",
+          "019df6a6-ba85-767c-8058-aadd7d578c7a",
+          "019df657-0bf5-7732-9ace-56ef4f067d51",
+          "019df65b-b157-7739-8c33-0e4675e177a7",
+          "019df672-a06e-70f8-9945-61ea8bfbc877",
+          "019df664-a37c-7371-b6fc-c83c4bd549c6",
+          "019df6b8-9310-76ce-a902-531acacc0de6",
+          "019df675-f82c-7434-a504-bd7cc19e7d70",
+          "019df6aa-285b-769e-a978-84030584c523",
+          "019df696-cf6d-74bc-9754-06d701f8745c",
+          "019df690-e6a9-712c-953e-a431ce09a1ba",
+          "019df675-c03e-7252-8fcb-d989d9a325db",
+          "019df666-b5fa-71ac-b8d2-62f9d9277b25",
+          "019df6ca-6838-74d6-b561-d34e9770e50f",
+          "019df6c4-a88c-7149-9466-caa99a5f658d",
+          "019df686-7320-7608-9942-fae5abb6d0ed",
+          "019df691-ffc2-747b-90e6-5ce18a3c359f",
+          "019df69d-1943-7539-8c96-306f736a01be",
+          "019df670-1f51-746d-9e91-c6c29d15c953",
+          "019df69a-fa44-7648-9b73-600ba76a5b99",
+          "019df6ca-26dc-7756-82fb-f35da8f78d1d",
+          "019df6a9-69b5-730b-a368-d70226c71d0f",
+          "019df6be-d40d-7419-9dee-990730c81731",
+          "019df670-b4d6-7218-9c09-eff84519f0fb",
+          "019df693-ec07-76a9-add2-39d7b9a3480a",
+          "019df68e-0493-737a-9813-63a62705fdb7",
+          "019df691-f5c4-70a5-b67a-a4e5e9251995",
+          "019df686-258c-7079-8096-806fb077f438",
+          "019df657-4328-763f-8889-a5cdefd12962",
+          "019df698-d2d9-71cd-8430-41d4f7903ae9",
+          "019df672-a16b-76ec-84ba-8625f4bba12a",
+          "019df6c0-f1db-769d-bd10-01cb34977b2e",
+          "019df64f-d277-7463-803c-800a6821a5d9",
+          "019df64e-3449-757c-b214-abdbac7d34bc",
+          "019df663-593c-751b-9983-fac9942d19a6",
+          "019df671-a3b1-7175-9638-def9fc8e67ed",
+          "019df6a2-d937-754a-993c-03d9f86d9a6c",
+          "019df670-be8b-73ec-8bcf-7fb773894252",
+          "019df689-0269-7742-80be-e767342dc96f",
+          "019df690-745b-7310-8f05-fa2164e0d22c",
+          "019df667-ecf5-722c-abb6-539a74d74b5b",
+          "019df6a2-94aa-72d8-9080-55859fd84827",
+          "019df661-f471-71ae-ac4e-26ccd1a4c2bf",
+          "019df670-503e-768c-8164-7f8efd1bb995",
+          "019df658-1f0e-73c6-9558-dbc3c763df84",
+          "019df6c2-4a61-77b8-83ed-b2bbaa3f428b",
+          "019df6b9-d839-727d-bc6a-5498706f61fd",
+          "019df694-1eca-73da-9786-9cfa01f3ff86",
+          "019df6b7-6dee-71ae-a765-4334838fe425",
+          "019df6ca-3cea-763f-ad27-23b9724c5647",
+          "019df670-f9bc-766d-8b6c-59e781e56831",
+          "019df6a8-854a-73dd-9205-fe5c91edf4dc",
+          "019df64e-e557-762e-afba-6f37894b5bd0",
+          "019df697-f33d-709d-b4ee-778e88b4bbe8",
+          "019df6a1-4a8c-73e9-8e06-64a2e67c1dcc",
+          "019df686-c1ec-75c8-8271-541eb5363a47",
+          "019df6b1-f999-7732-b49a-19c2958aa718",
+          "019df64e-64e5-7097-b975-d0c416a80970",
+          "019df6b8-c575-703b-b214-ed4f0b546f32",
+          "019df6b2-cd57-7349-ab23-a16779d457fe",
+          "019df691-3fca-7371-91c6-10810cac8ce3",
+          "019df674-178c-74f8-b50a-0c2d7b772cf7",
+          "019df67c-e3c2-763c-bb75-06d4597b9bd1",
+          "019df669-a4bb-7219-8555-bcd3b176d97c",
+          "019df69b-5759-7246-a6a7-deaf3a8e8c90",
+          "019df6ab-36e0-719d-8df7-a8dcba3ab773",
+          "019df654-7076-744d-8e8f-f4c26ed0d267",
+          "019df69c-9b6a-72a8-b0cc-d7e6f31876b6",
+          "019df6b2-9940-720a-826a-3165b4cf6653",
+          "019df67c-0579-7758-b0e8-a1c9a64fbfbe",
+          "019df676-c57c-737c-986b-edcd62fff07f",
+          "019df6b6-4421-7745-b615-2ae5269a565b",
+          "019df675-c963-72ec-8a13-d3042d64c290",
+          "019df6bb-b25c-72bc-86e4-e925cfdd0d86",
+          "019df6c4-05cc-70fb-91d2-27356e00cbdd",
+          "019df6c5-c446-7722-8160-dbcf3ecad768",
+          "019df6b3-ec3c-754c-9e3f-bfb60856e2ed",
+          "019df691-3ba4-7161-924b-ac69aca67e13",
+          "019df6b9-2e34-765c-abed-696a10d73c17",
+          "019df67a-87c9-73cc-b79b-13dc703d0038",
+          "019df6b4-5c2a-7255-8ddd-b5d99666aa49",
+          "019df6b2-bacc-70ef-a8d2-4289b6da685e",
+          "019df671-7fb5-7309-8b87-65536a7d721a",
+          "019df6a9-6350-778b-82e9-e3a6366c689a",
+          "019df67d-b381-7489-b0a9-89e03a66487b",
+          "019df65d-a2c5-7413-9caa-82e58ed2d1e4",
+          "019df6b6-2a4c-73a8-8fd7-6969a89350d5",
+          "019df657-1f34-76de-beb8-63960b55ae40",
+          "019df672-2fdd-7023-979a-ad60f880adf4",
+          "019df65d-73e2-73d9-b119-31335c9dd012",
+          "019df6a6-8267-731d-aad6-3b3321b5aa60",
+          "019df695-f104-72a4-b811-bccda2680702",
+          "019df6a1-c822-74fd-9503-3a041e346b13",
+          "019df654-59c7-708c-a33a-5e62f732d2d5",
+          "019df69d-564e-7349-ae15-ff17710e81ce",
+          "019df69a-baad-759d-8ab4-b54568004a0e",
+          "019df64f-2278-713d-a25d-42e444a5595f",
+          "019df6c4-a82a-71c2-a1b4-a5de22ea08b6",
+          "019df671-653f-745e-8e4a-f61ce161aff4",
+          "019df660-f2cd-72bd-9266-bfd5ee12c890",
+          "019df6a6-af7e-776b-a574-e5b199948742",
+          "019df687-d12d-7493-aaa0-68638a77a3c2",
+          "019df6b3-a086-74ab-870b-2d0c3e347a31",
+          "019df65f-a418-7224-a7bb-29971b035d72",
+          "019df69b-493e-7169-a3a3-70ca9df56982",
+          "019df698-b0ef-709e-9302-34a3dd96f7b6",
+          "019df671-ebdb-75ae-8648-7f7406e12c09",
+          "019df6cb-8e71-72df-82f8-6e5399b4decf",
+          "019df6b4-cbc2-773b-ae57-3f19218b49a1",
+          "019df6c2-bf43-720a-b174-5b7cb64ceb13",
+          "019df6cc-c69c-76d9-b510-097a4466b6cf",
+          "019df6ba-8271-720a-a756-064d36316120",
+          "019df682-26f5-735b-b5a7-5f73722ee32b",
+          "019df650-4845-7285-8d8a-89b532bd0f8d",
+          "019df69b-5c89-74cf-9b36-38675de1a207",
+          "019df6cb-df0c-7058-a277-fb7068811956",
+          "019df671-0f84-70db-898c-220c221555ba",
+          "019df67d-9915-708c-a2c4-3b9ae8c7ed92",
+          "019df67f-1e26-7118-a7ab-c98d2da1f60b",
+          "019df69b-6b78-737b-9426-71258a2b1131",
+          "019df670-32bb-76d9-800c-5d3574339622",
+          "019df64f-7d05-7583-94e9-69356706fac5",
+          "019df6b2-e47a-705e-abbb-e4d64200802b",
+          "019df65f-bffb-7698-a994-e7dbf1ddf474",
+          "019df6b8-8814-7102-aca2-ce73587fcdfd",
+          "019df66e-c582-7656-8ae1-288f98cce1dc",
+          "019df65b-f382-744a-8117-f557927f6f7e",
+          "019df6b6-260a-721a-9685-7baec3546713",
+          "019df6bc-f63a-766c-9637-cc3784b9479b",
+          "019df670-8cda-75ff-a881-465e4ed5766c",
+          "019df6b7-7862-763e-a1fb-ebadae450630",
+          "019df661-bf10-73a6-90f3-c7f1e052b5e2",
+          "019df6b9-2d4a-700c-ac93-4f037248a84b",
+          "019df678-d09d-76ac-ace4-9ef6a91230c6",
+          "019df67d-311c-7108-952f-79b370271b6b",
+          "019df6c5-3477-71ea-ac22-1002ad3c383c",
+          "019df672-24e8-74d9-84ee-c6b988af81ac",
+          "019df6b4-5cd0-7488-ada6-6a9bfb163e3c",
+          "019df64b-be2c-749d-989d-abfbda00f28a",
+          "019df671-b701-71dc-af75-56143aa00117",
+          "019df69d-0435-71c2-8600-c71c95027797",
+          "019df698-b728-750f-a5dc-c71c84bfc7b5",
+          "019df6b8-4732-7091-af45-955902c0dc80",
+          "019df6b3-c5c6-72ac-bb28-b0418e872043",
+          "019df672-8b31-742f-a187-752eaf68c31f",
+          "019df694-9395-73be-8ac7-9cc40c9da79d",
+          "019df68f-e3db-7288-b984-105e53011b4a",
+          "019df6a5-0bc7-7526-9fbc-91fed01f999b"
+        ]
+      },
+      {
+        "office": "ipau",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "legacy_au_7_14",
+        "n": 301,
+        "example_ids": [
+          "019dfb1c-1577-7279-8727-cc7ab35427a1",
+          "019dfaa9-f358-71a9-a521-66718861f438",
+          "019dfaeb-2fe8-746a-b9d6-be3eeec2b290",
+          "019dfa89-aa18-769f-9685-67046524dd38",
+          "019dfa84-6614-766c-90f0-90e3f0f6a97e"
+        ]
+      },
+      {
+        "office": "ipos",
+        "route_group": "madrid",
+        "era": "2000s",
+        "class": "unexplained",
+        "n": 100,
+        "example_ids": [
+          "019df646-eb22-713d-ab26-52538be50d26",
+          "019df6c8-c77d-7503-a877-15b114a7654c",
+          "019df678-ea39-73f3-99f1-4be26946b3fd",
+          "019df663-bde6-702c-844a-168716ab96c7",
+          "019df65f-298c-710a-8162-be7ee68d11c4",
+          "019df687-5701-7689-b5e2-873362a4e632",
+          "019df685-0da2-726c-8fec-ee90447ed111",
+          "019df681-bae7-738a-856b-09ce580898e9",
+          "019df6c9-46db-7152-925b-6b867f7cb3e7",
+          "019df6a7-9275-76e5-8bbd-581dbd31d28f",
+          "019df693-e815-764b-bcc0-af389604dbea",
+          "019df6b9-6588-746d-b07a-c8d94b8c3344",
+          "019df6b2-0e6d-7083-96ec-bbcc15fc1a30",
+          "019df654-7708-70fd-baaa-74fe89f00b11",
+          "019df649-94c5-7698-a4a9-d3cc94cff19f",
+          "019df65f-2cc3-735f-9543-56d6191e2c9f",
+          "019df64c-a7e2-765e-b6cf-e9fc0108f29c",
+          "019df66c-3080-73c4-a7f5-9af199383b75",
+          "019df676-b3b2-76cf-95b8-69aaa0268023",
+          "019df646-5583-7552-ac0a-714e70f47f92",
+          "019df65f-04cd-73b8-a434-84d6aac0f8dc",
+          "019df6ba-b6ad-7418-97ab-4893435f9924",
+          "019df658-9d60-7087-a76d-ec5e21901f09",
+          "019df6cb-8691-73c9-92b9-88ce4d4cb777",
+          "019df695-2a6e-71ee-8c5f-fe401130db72",
+          "019df695-fa82-704c-b7ea-70dcc670a25a",
+          "019df6b5-2348-7450-b0ad-de1ac696f498",
+          "019df675-623e-732e-a8de-24b6e99ff811",
+          "019df6bf-c7b3-7321-9ec3-a2330da217a4",
+          "019df650-84e3-735a-a380-6f6441fe9188",
+          "019df6a3-8918-718e-b0dc-04ee62ee9ffb",
+          "019df656-203d-77d4-a660-e5cec477cfc2",
+          "019df6bc-0569-728e-9f20-1b8cff85a791",
+          "019df658-176d-7100-b5ff-c938282319f7",
+          "019df6c9-8cb2-7641-ac64-4b834c4a482c",
+          "019df676-98a8-7568-a6f2-64627d4f6c43",
+          "019df6ba-0b07-706c-97b3-0033a9348de0",
+          "019df697-3809-73ea-81cd-c6f4cee3aab6",
+          "019df6c5-2e66-7441-a284-c3ce4e7b55ba",
+          "019df68a-ced8-750b-94f0-51a1947fe08f",
+          "019df662-1729-75ee-8059-0bd65529d43c",
+          "019df69b-6dab-7278-8af9-fca13c9221d9",
+          "019df665-0861-7288-aa7b-b4fdfc1ad30b",
+          "019df674-88b9-7141-8fc1-5c1fdc1199b8",
+          "019df6a7-5e52-76de-b19e-6e2fb132c896",
+          "019df68b-f443-75da-aee4-9312ed0931e5",
+          "019df661-660f-7076-9004-4141aa4e0863",
+          "019df685-e4eb-7678-a65a-1fe1c0287541",
+          "019df67e-5165-7744-9333-e04dfcaf8e56",
+          "019df682-faab-718b-b204-2ceae950f4fd",
+          "019df644-dcf5-70bf-ad6d-8412405aea3a",
+          "019df69e-c0d5-72fe-961e-21dc29d227ce",
+          "019df6a6-2e4c-74db-b7f9-a3996efb6c15",
+          "019df6cc-b646-766a-8166-9ed6d676c6d3",
+          "019df69c-127c-761c-892e-24f77d42468f",
+          "019df690-2ef0-7185-bf60-a1aa122446f1",
+          "019df652-4134-761c-a949-e85085a5c9c3",
+          "019df6a9-a9fd-77e7-bed7-add99b6d0ba8",
+          "019df693-def6-73df-9479-bfbd729804ac",
+          "019df6bb-ebf1-7069-a4a5-27c6248ba073",
+          "019df6ad-0c5c-717c-9b9b-37b1deaccd6d",
+          "019df658-c17f-7241-9a17-956bfd2b67ea",
+          "019df678-a662-745b-83b6-fa496c0dd8e2",
+          "019df67e-36fb-7244-a994-c6d8e686308a",
+          "019df65b-ece4-7686-938e-d8a717c630e3",
+          "019df656-28d6-7644-bcb5-e507f169f95f",
+          "019df65e-f509-70ae-b9dc-0a70a359da46",
+          "019df665-59f6-73d8-b8f5-e96d0a1ea1e1",
+          "019df69c-5eff-7506-9447-44dc263f4d8e",
+          "019df6be-56db-71ff-a39e-4121df68069b",
+          "019df6c8-f013-75fe-841a-9cd54465dda8",
+          "019df6ae-623a-77d8-ad15-ca88207784e5",
+          "019df6a9-8f29-776b-8ed5-669065bb4944",
+          "019df68a-9a95-71a7-9c5c-a241be4c33c6",
+          "019df6af-6a7e-73af-bcba-30dd6b2fa48e",
+          "019df65c-48c3-7559-ad8f-c60398f4494b",
+          "019df66b-d92d-77e2-9ded-ee469d93d392",
+          "019df6a7-4c0e-770d-9e00-51ed886f836b",
+          "019df6b9-0bfc-735e-ae42-f1a496a7d65b",
+          "019df6ae-103a-74f4-ba4f-4a513a49df9e",
+          "019df6ab-76b9-721e-bc29-6624cc663493",
+          "019df68b-9958-72ba-9e49-874c03f9ec61",
+          "019df684-5bff-765c-bf39-166db61c1e38",
+          "019df654-e684-74fd-b71f-2fd0df0bf960",
+          "019df69f-a3f1-7041-a78b-e9c448796964",
+          "019df68c-7508-7684-8869-17208e60e2fc",
+          "019df67c-1ade-70fe-b7f0-b3557976cb8c",
+          "019df6b9-31de-7342-a730-eef0d96f51b7",
+          "019df67b-5db6-7464-b5c7-4e0129936e7f",
+          "019df682-aba7-75d4-915d-f9d9b893e2db",
+          "019df6c7-31f3-77bb-bb47-54d5febcf52a",
+          "019df693-4284-7618-8fcb-78ea22cd1984",
+          "019df664-167a-75eb-8181-17320e5024a5",
+          "019df673-6917-70ec-ae0f-bea5302bf77e",
+          "019df681-a1c1-75f4-8da2-fe1d8752fc38",
+          "019df67d-7f47-743f-8cb6-19583fc9f27e",
+          "019df6b0-288d-709f-9ace-000dd965d0f3",
+          "019df666-28e5-747d-a8cc-884a70367ad4",
+          "019df6c5-1362-76ee-99df-f369532d408c",
+          "019df6be-62a1-70d0-94bc-37be6becc6e3"
+        ]
+      },
+      {
+        "office": "ipos",
+        "route_group": "madrid",
+        "era": "2010s",
+        "class": "unexplained",
+        "n": 68,
+        "example_ids": [
+          "019df657-ba3c-708b-a625-0a7876bb951d",
+          "019df678-f426-75eb-856f-b89879a04fc5",
+          "019df647-78dc-75f8-bd6b-f0e7f60d0553",
+          "019df68d-9405-72ae-a027-ee4361a53425",
+          "019df6a8-ba40-73d9-b45f-e2e8df995950",
+          "019df662-6aa0-737e-ad4b-eafe4238f77a",
+          "019df694-f31d-7759-bc36-74fb64b5bdae",
+          "019df657-e93e-73be-8f9f-d04da4b5bbb6",
+          "019df69a-e81e-769c-ada1-fec786522ffd",
+          "019df68e-7435-70f0-8406-044774eff2b2",
+          "019df6b1-1590-7022-9fda-362496cc8944",
+          "019df6cb-044e-7779-949f-3aca58f80a06",
+          "019df692-c677-727c-ab7e-0a8b6a2a0f52",
+          "019df6aa-99aa-751a-b83a-e3b9ca2c2dc7",
+          "019df6c0-cfb1-71af-b48c-d9281d16a478",
+          "019df679-5a84-7698-bf99-910a7e79a8b7",
+          "019df649-f9d7-705f-bf1c-52b6e5a4d258",
+          "019df646-a804-733f-bf6c-7979867b9053",
+          "019df69e-5d6c-7170-be62-ebd0a221c8f3",
+          "019df6b6-e7d3-7653-bd7d-4e3994fc46b6",
+          "019df683-ac01-76ec-a67e-7e16e762e12f",
+          "019df6bd-1713-7236-85be-4a8d936bf891",
+          "019df6c9-2a81-728b-94b7-26a39fa5efe6",
+          "019df660-b9de-72a8-9e33-ca16603ab162",
+          "019df68d-4fe2-72b9-a676-57bf23a1ca49",
+          "019df6c8-b224-736a-8da0-219a15d101b4",
+          "019df6ba-a2ec-7531-acad-ecf8d57b5282",
+          "019df684-6aad-754c-84d3-be060b112dd8",
+          "019df646-f497-7610-806c-524855e22b54",
+          "019df660-9f15-768f-9f6f-36bad6293820",
+          "019df6c3-bdf8-730b-a171-7756ad30dbe1",
+          "019df694-d42e-754e-bae5-ed9586364295",
+          "019df690-eb2f-761e-94c1-dba806c77386",
+          "019df6a1-907f-72d4-959d-345c85725796",
+          "019df66c-edb2-705e-88ac-b94cd5b8928f",
+          "019df66d-b9e2-70dc-af72-08eeda94ad7b",
+          "019df68a-d7ff-7415-8cca-7c60d20680e2",
+          "019df6bc-08ef-747b-bbf0-e464411873a3",
+          "019df65c-3f2f-743e-aad0-5d00ff890519",
+          "019df68c-0598-709e-b268-ac9c69c70460",
+          "019df6af-3380-7144-bc5a-5e8e133a11ff",
+          "019df66b-0bdc-74b8-9131-c8677aaa2aeb",
+          "019df68e-121e-7313-b611-bee36b2ddaaf",
+          "019df69e-e958-742b-8cb1-2d6bdd44112e",
+          "019df6b9-f3d8-72e5-b612-8dddfae2fdce",
+          "019df6ab-c2f4-7292-876d-538fcd3a3c03",
+          "019df66d-f2cf-718d-9a09-f9539efaba3f",
+          "019df684-3bc8-76cd-bfaf-33cfa925a91a",
+          "019df682-1bb1-712c-9261-ca335235cf9b",
+          "019df667-a17c-74b2-8c7d-c9c706e1e739",
+          "019df6aa-6e9c-75c5-86e2-55da101b7c26",
+          "019df66f-7d66-721e-ab28-c5e5fdee9698",
+          "019df67c-a0e1-72a7-bf83-35bcfe2eede2",
+          "019df660-250c-7568-b5e2-a621ef3e1fdc",
+          "019df64a-8505-7390-ac26-c25166ce308a",
+          "019df663-acda-7167-89b9-5eafee33961d",
+          "019df68f-af0c-74b6-82e4-d81ee4b69494",
+          "019df6c5-2075-7529-b2dc-498463c3a8fc",
+          "019df690-4b60-7016-88f5-90b2eb79b88f",
+          "019df6b7-1ff1-745f-82e5-0134f1ee4bc1",
+          "019df67c-04ed-70eb-9210-df8d7976ab1c",
+          "019df6a1-2dc3-76c5-bde6-2e04b6a85f86",
+          "019df649-c339-740f-9fc5-27977dd59abe",
+          "019df659-16e2-74f2-954c-b2008a441755",
+          "019df6ab-b6b5-737e-be69-1318dcbd323b",
+          "019df6a7-11cf-7709-abe5-bb8c7ae10f62",
+          "019df667-4a4f-758c-8199-26e162164854",
+          "019df64a-bd63-769b-8e6e-62bd171768f1"
+        ]
+      },
+      {
+        "office": "ipau",
+        "route_group": "madrid",
+        "era": "2000s",
+        "class": "anchor_ir_parent_verified",
+        "n": 67,
+        "example_ids": [
+          "019dfbb3-3c3d-7090-be6e-c3001c8b3a9a",
+          "019dfb8d-feed-762c-a854-09cd63890f5a",
+          "019dfba6-df1e-7495-8c7c-c2dd70543adb",
+          "019dfb5c-6755-752e-85a5-181f2adba7db",
+          "019dfb64-cfab-74dd-bc53-852b13a52e6b"
+        ]
+      },
+      {
+        "office": "ipos",
+        "route_group": "madrid",
+        "era": "2020s",
+        "class": "unexplained",
+        "n": 56,
+        "example_ids": [
+          "019df64a-ba8c-7572-af5d-0e847e10cba4",
+          "019df68f-a698-75b8-bfb2-9df930b95eb4",
+          "019df6a7-1f18-714b-8eb6-38edc045d0c3",
+          "019df68a-e2e8-765d-a01c-1071f89b3e8b",
+          "019df676-f484-702f-b161-3234cbc35c61",
+          "019df6a4-16ce-769f-b033-ec618e60e6bc",
+          "019df65c-4f6e-70c0-bcd3-a38e55d8bfb6",
+          "019df69c-e201-75fe-8267-14d26236f47d",
+          "019df6ba-05d6-768b-be7c-cd861fc726ba",
+          "019df6af-d63b-748c-a0f1-b4bbe1a0574c",
+          "019df6c0-840b-760e-a398-8277bcc68517",
+          "019df683-10ea-7150-85ac-0aae63409b80",
+          "019df64f-2fbe-772c-b406-b7e7d3a4bd4a",
+          "019df6bf-adc0-749a-acf4-2b6c468cc0bd",
+          "019df6b2-2ea5-7649-8c09-e05a54c61bea",
+          "019df6ae-e2c3-7787-b60a-601435239dc2",
+          "019df669-5f73-75ef-ae01-c8fa8942e8ee",
+          "019df649-13be-73ec-b7d8-046065b016a0",
+          "019df65a-cf94-73a0-88e1-be5245fda02f",
+          "019df663-d7da-7428-88e5-5993d22f17fb",
+          "019df685-9b6f-70c5-84f6-bac3cc5444cf",
+          "019df64a-5c69-7319-a067-4c2c9c3127a9",
+          "019df688-5e22-743f-90af-14502dd90df9",
+          "019df698-8ba2-7749-8cdc-9817c912dd61",
+          "019df65b-11d0-7662-b124-a3c430bfc049",
+          "019df65f-c89c-74e9-84d0-78b141172c86",
+          "019df6bb-161c-715e-bc57-2459f2e9e4f9",
+          "019df674-e740-722d-94b4-590c51c942fb",
+          "019df6ae-0dbb-7502-834d-cda61cba6892",
+          "019df647-a5bc-701f-a828-e34cebc8b391",
+          "019df67a-226d-74d1-8618-cb2db1afab0b",
+          "019df685-bf48-75c0-8051-07843c74167a",
+          "019df687-5c00-739c-a7e3-331f0f003e6d",
+          "019df686-6c69-7534-9529-04b774691e1b",
+          "019df6a6-6009-732a-bb4a-e74f722d7805",
+          "019df65e-b431-72bc-8dc9-d7ad5a624354",
+          "019df680-f14c-758a-aec4-e6ed23477341",
+          "019df6c1-5a9b-729f-a94f-659c72ebf639",
+          "019df664-d773-73d0-9ed2-0bfe54424ce6",
+          "019df677-e4d3-7521-bc28-eebf63522bd7",
+          "019df66c-319e-75db-926c-5133acff85ae",
+          "019df6bf-0203-71ad-b18e-71bff28683e8",
+          "019df673-146e-71ca-a071-77a588edff1f",
+          "019df6c5-5406-75a0-9e29-575fe401683a",
+          "019df694-1091-74bb-9d67-0bf721b4266c",
+          "019df67a-5fb1-715e-9a80-3fbbfdf1f5a4",
+          "019df684-7b8e-76bd-9db7-483ada42f354",
+          "019df66e-98ed-749d-913f-88014cd63e19",
+          "019df6c9-1e78-7259-9c70-7dea633d09e4",
+          "019df644-56ac-770a-95b5-f41c334b9826",
+          "019df694-0c49-7461-9c35-229fbfbf3168",
+          "019df6cb-dee1-731e-b572-89783d28554d",
+          "019df6a0-7612-779a-9a75-90258dc17f4a",
+          "019df6b7-1881-77fd-b5ef-0f087873a1ef",
+          "019df68a-b1ae-759e-8129-880614835c56",
+          "019df673-ce61-7082-bf42-5f373df122d4"
+        ]
+      },
+      {
+        "office": "ipau",
+        "route_group": "madrid",
+        "era": "2010s",
+        "class": "anchor_ir_parent_verified",
+        "n": 48,
+        "example_ids": [
+          "019dfbe1-9bc3-77cd-8cc4-9ea54f82f558",
+          "019dfc02-4124-7454-8f82-a68a57183fe6",
+          "019dfbe9-f23e-7702-95e0-ec37cd187297",
+          "019dfc36-7e7f-7268-af25-52fad3691194",
+          "019dfbec-78f0-744c-8bca-6a13ae2d4960"
+        ]
+      },
+      {
+        "office": "cipo",
+        "route_group": "madrid",
+        "era": "2020s",
+        "class": "anchor_ir_parent_verified",
+        "n": 47,
+        "example_ids": [
+          "019deb2f-0b05-740b-8fde-9c647229d1ff",
+          "019deb40-80d6-770c-b88d-7293975bcdf0",
+          "019deb34-e90d-718b-be8b-1d4f636f2c99",
+          "019deb4b-61af-734a-b288-80e79ad61d1f",
+          "019deb39-c59e-7096-919d-73b140cdc798"
+        ]
+      },
+      {
+        "office": "ipau",
+        "route_group": "madrid",
+        "era": "2020s",
+        "class": "anchor_ir_parent_verified",
+        "n": 44,
+        "example_ids": [
+          "019dfc8f-3f5a-7038-bb26-3b4da3cbb61b",
+          "019dfc68-194c-747b-9d2d-052dd751be4a",
+          "019dfc5e-65bf-731c-8eef-6645136d0803",
+          "019dfc79-ee1e-7071-832a-54354c537e37",
+          "019dfc9f-6383-7008-a453-6c86b0bfbe59"
+        ]
+      },
+      {
+        "office": "ipos",
+        "route_group": "direct",
+        "era": "2000s",
+        "class": "unexplained",
+        "n": 30,
+        "example_ids": [
+          "019df66a-5420-757c-927f-849f8bbeba03",
+          "019df66a-0fb3-7048-a480-c8c4d947de8c",
+          "019df66a-3578-70ba-9437-6c7ae57963e7",
+          "019df6c0-6ec1-73fe-83c0-7d9aadfe5575",
+          "019df68b-f37f-746c-981f-a35025baa426",
+          "019df6a6-ff69-75aa-b4ac-69ebf5d0eb6c",
+          "019df675-0d63-76ff-b6fb-52b4ac88212a",
+          "019df6bb-22c2-7619-a049-80991b3f2b0a",
+          "019df6c5-48bf-764f-a192-77f721707db4",
+          "019df6a7-2440-76fe-9256-e0912521aef5",
+          "019df69e-1f62-72cc-976c-e7729d491253",
+          "019df685-81ac-76eb-8374-6733a625e013",
+          "019df65e-da22-731e-b9be-b74468c6fff4",
+          "019df64d-c3da-702d-ac58-201524631783",
+          "019df6bc-6bce-73d7-ad4a-9859d2b0c5d2",
+          "019df697-ccea-764f-b553-507733130e1a",
+          "019df6ae-ee71-74ee-868c-219958f6f6a2",
+          "019df646-a786-72f8-b4a2-f08965926683",
+          "019df6b0-9730-73af-a9f2-4fef89f7ddeb",
+          "019df67c-e253-715b-960a-846590125714",
+          "019df677-8d60-7066-a76f-9870bf509ecf",
+          "019df6ae-2006-74cf-adf8-2382f3315cc0",
+          "019df675-514d-7729-a4cc-8087f9b5ac07",
+          "019df67c-bfea-777a-9aa7-b5b438521105",
+          "019df6a5-7e94-70cb-8439-0343c5d478fe",
+          "019df66d-f917-7528-9884-8d69ce776c8b",
+          "019df6c5-1624-77f5-851f-3c3b0ef685f4",
+          "019df689-991e-771b-ab83-710084d684d8",
+          "019df693-44ad-70e4-ad0c-a222244b551b",
+          "019df6aa-5122-75bf-9942-ff58e84dcecb"
+        ]
+      },
+      {
+        "office": "ipos",
+        "route_group": "madrid",
+        "era": "pre2000",
+        "class": "unexplained",
+        "n": 15,
+        "example_ids": [
+          "019df651-e960-77f2-bba0-d2481a76d9c5",
+          "019df6b6-3374-7505-9ef5-0b459c11a122",
+          "019df67f-c309-72ba-a835-affcb18ff1c2",
+          "019df686-5e54-710b-aa04-bd31e03958d7",
+          "019df68f-5911-7578-8ca7-862cfbb36dca",
+          "019df670-596f-779d-94e1-af2838b18472",
+          "019df671-572f-7244-9d25-8fec9f3592b5",
+          "019df67a-67f7-718b-a5f5-82eb499b14bf",
+          "019df688-3e9d-729b-acff-392d7d7e2a0c",
+          "019df69f-f064-722c-a93a-92b6e054aa61",
+          "019df6a6-c5de-766d-83af-d2e42ad46c33",
+          "019df64d-fc2c-705a-a61c-85d0ed4b6877",
+          "019df692-1bf9-75ae-9b8b-696b445933aa",
+          "019df6a8-248c-7215-befe-a4d46e5d82a8",
+          "019df690-99a8-725e-bc08-4c3f51e323b4"
+        ]
+      },
+      {
+        "office": "wipo",
+        "route_group": "madrid",
+        "era": "pre2000",
+        "class": "anchor_filing_date",
+        "n": 12,
+        "example_ids": [
+          "019db631-1a85-72e8-b8cc-d2c46aa4882f",
+          "019d5bd0-5714-735b-8e58-06b26636400f",
+          "019f31e9-d3e4-75cf-99cc-fc12e55c1ba3",
+          "019f3241-d1c6-746e-8332-70ad04c208d0",
+          "019f3218-e1c7-72af-be38-cc3a04b0e5e6"
+        ]
+      },
+      {
+        "office": "inpi-fr",
+        "route_group": "direct",
+        "era": "2000s",
+        "class": "anchor_prior_filing_cycle",
+        "n": 9,
+        "example_ids": [
+          "019e3e64-b199-765c-817e-e865d8e4a0bc",
+          "019e3e2a-c135-7001-a9af-51feed9a13e2",
+          "019e3e00-c810-7276-b956-8deb1d9c86b2",
+          "019e3e92-5b05-767c-ac8c-e893f93b305c",
+          "019e3ea4-ec0a-75cf-a0e2-5acf11bea488"
+        ]
+      },
+      {
+        "office": "inpi-fr",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "anchor_prior_filing_cycle",
+        "n": 9,
+        "example_ids": [
+          "019e3e16-5378-70ef-bd7a-d128933ac6c8",
+          "019e3e1a-b089-76cc-a606-983f04785133",
+          "019e3e2f-9ec4-71a9-b75c-a7074650541f",
+          "019e3eb7-40c2-7311-acf6-ea4761cf87e3",
+          "019e3e61-ed9b-73ff-bf04-9f5433b3caea"
+        ]
+      },
+      {
+        "office": "wipo",
+        "route_group": "madrid",
+        "era": "2000s",
+        "class": "anchor_filing_date",
+        "n": 8,
+        "example_ids": [
+          "019f33bd-6053-71e5-988c-88d51b04a124",
+          "019d5bcf-459b-73f9-9eb9-56c8d3b96867",
+          "019f342c-5ed8-733c-98e1-f5beced3811e",
+          "019f33d6-ea6e-77f8-adb2-e1fa62a18445",
+          "019f2fc0-6e0d-735a-b952-f921d54643cd"
+        ]
+      },
+      {
+        "office": "wipo",
+        "route_group": "madrid",
+        "era": "2010s",
+        "class": "anchor_filing_date",
+        "n": 6,
+        "example_ids": [
+          "019f30ec-e761-70ac-93b9-46a6b7ab36f4",
+          "019f30e4-1a89-779e-b10b-1170144b316a",
+          "019f3023-c2e0-767f-81ee-d68ce7c08f2a",
+          "019f302b-f393-7618-baf0-4a22483a003e",
+          "019f3047-6e6f-71f1-8b1e-13ed2e70a288"
+        ]
+      },
+      {
+        "office": "inpi-fr",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "unexplained",
+        "n": 6,
+        "example_ids": [
+          "019e3ee9-75c4-7451-ac88-62802a04d3d6",
+          "019e3df7-202d-72a4-8814-39eba1e98afb",
+          "019e3ee5-ba42-74d0-9080-4bdcd3d11673",
+          "019e3ebb-c29f-737d-9678-a12208e74344",
+          "019e3e5d-e336-731a-8ced-1428a28ae614",
+          "019e3e85-6548-7340-9bb9-1c973eee5fb2"
+        ]
+      },
+      {
+        "office": "nipo",
+        "route_group": "direct",
+        "era": "2000s",
+        "class": "anchor_filing_date",
+        "n": 6,
+        "example_ids": [
+          "019e4ac8-ea45-77d6-a5a1-17215a697efc",
+          "019e4abf-674d-7143-844e-649e816084c1",
+          "019e4b0b-9706-73df-a353-f787c7c890df",
+          "019e4af3-4dd6-7528-9a23-5f64de9960d3",
+          "019e4ac6-a43f-7329-8b4f-15a15e4438f1"
+        ]
+      },
+      {
+        "office": "prv",
+        "route_group": "direct",
+        "era": "2020s",
+        "class": "anchor_filing_date",
+        "n": 5,
+        "example_ids": [
+          "019e4ebe-ff52-72ad-ab00-c024b8c555bf",
+          "019e4ea2-3569-745a-878c-47711471c253",
+          "019e4ea3-b8e9-72ae-9387-795df2f11fca",
+          "019e4ea5-40b2-74ec-ba11-0025ac539ebd",
+          "019e4ea3-b8e8-77af-95e5-77357b273a9b"
+        ]
+      },
+      {
+        "office": "nipo",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "unexplained",
+        "n": 4,
+        "example_ids": [
+          "019e4af7-24e5-72fd-970e-a548c37c5147",
+          "019e4b9d-4946-723f-9ecf-5d7274b0e871",
+          "019e4b99-3b45-72c4-98f3-82898dc81481",
+          "019e4b1c-a0ed-7570-94bb-a3acfa3f0d12"
+        ]
+      },
+      {
+        "office": "inpi-fr",
+        "route_group": "direct",
+        "era": "2000s",
+        "class": "off_by_1_2",
+        "n": 3,
+        "example_ids": [
+          "019e3ee1-250a-73b9-bef3-ff5e81d7c456",
+          "019e3ed4-8fa9-759b-b023-f3adfd6dd6e9",
+          "019e3ead-9ede-77ab-a146-810b23c54fcf"
+        ]
+      },
+      {
+        "office": "inpi-fr",
+        "route_group": "direct",
+        "era": "2000s",
+        "class": "unexplained",
+        "n": 3,
+        "example_ids": [
+          "019e3ec9-0109-748b-bd3e-b8dc50843f4e",
+          "019e3e2a-4717-73a6-8142-ce292151faf8",
+          "019e3e88-b618-7168-b4c3-a93ddcd9272a"
+        ]
+      },
+      {
+        "office": "ipau",
+        "route_group": "madrid",
+        "era": "2000s",
+        "class": "off_by_1_2",
+        "n": 3,
+        "example_ids": [
+          "019dfb9b-9f79-7753-9c6c-6c76a90c4247",
+          "019dfbb1-5220-7399-bdb1-73dbfab39128",
+          "019dfb5b-b505-77e2-9d74-7552ae8987ae"
+        ]
+      },
+      {
+        "office": "uspto",
+        "route_group": "direct",
+        "era": "2020s",
+        "class": "unexplained",
+        "n": 2,
+        "example_ids": [
+          "019d1c2a-7206-702e-9729-01a438294eb4",
+          "019d2a35-7c32-75eb-8242-5c947ba193a7"
+        ]
+      },
+      {
+        "office": "euipo",
+        "route_group": "madrid",
+        "era": "2010s",
+        "class": "off_by_1_2",
+        "n": 2,
+        "example_ids": [
+          "019d48be-2f3a-771a-819d-208c89a30667",
+          "019d4922-3d76-70fa-911d-9cceaa9928c8"
+        ]
+      },
+      {
+        "office": "cipo",
+        "route_group": "direct",
+        "era": "2010s",
+        "class": "legacy_ca_15",
+        "n": 2,
+        "example_ids": [
+          "019deb4e-8d11-71a0-b967-54a09c62bb06",
+          "019deb4d-65fe-77ab-bbb3-24413932617f"
+        ]
+      },
+      {
+        "office": "cipo",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "unexplained",
+        "n": 2,
+        "example_ids": [
+          "019deae7-c758-730a-a66f-69f13e75e0d4",
+          "019deae7-b060-7056-b46e-1c413421391a"
+        ]
+      },
+      {
+        "office": "cipo",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "legacy_ca_15",
+        "n": 2,
+        "example_ids": [
+          "019deb75-8620-75c3-b476-746267bfd188",
+          "019deae5-b213-70ae-9fef-e43fc447c509"
+        ]
+      },
+      {
+        "office": "ipi",
+        "route_group": "madrid",
+        "era": "2010s",
+        "class": "off_by_1_2",
+        "n": 2,
+        "example_ids": [
+          "019ec56d-6af6-76f8-988c-1001ee809908",
+          "019efeb0-7057-74a7-a7d9-7afb4b754b3f"
+        ]
+      },
+      {
+        "office": "ipos",
+        "route_group": "madrid",
+        "era": "2010s",
+        "class": "off_by_1_2",
+        "n": 2,
+        "example_ids": [
+          "019df6bd-e035-712d-8cbe-c607faef3d94",
+          "019df65e-cc39-73f8-9a18-30944336d498"
+        ]
+      },
+      {
+        "office": "nipo",
+        "route_group": "direct",
+        "era": "2000s",
+        "class": "unexplained",
+        "n": 2,
+        "example_ids": [
+          "019e4b76-c109-7064-9799-12380fa6c36a",
+          "019e4b3e-0ae3-710f-b74c-1cb7fe272754"
+        ]
+      },
+      {
+        "office": "nipo",
+        "route_group": "madrid",
+        "era": "pre2000",
+        "class": "anchor_ir_parent_verified",
+        "n": 2,
+        "example_ids": [
+          "019e4adb-801f-74e8-a573-140cbdea568c",
+          "019e4adc-8f70-70bd-acd1-c58688e60848"
+        ]
+      },
+      {
+        "office": "uspto",
+        "route_group": "direct",
+        "era": "2010s",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019d2948-3b05-7454-81a1-7c52992c0479"
+        ]
+      },
+      {
+        "office": "inpi-fr",
+        "route_group": "direct",
+        "era": "2010s",
+        "class": "anchor_prior_filing_cycle",
+        "n": 1,
+        "example_ids": [
+          "019e3eab-d3be-770b-923a-36b4d643e4d4"
+        ]
+      },
+      {
+        "office": "inpi-fr",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019e3e90-b36d-76ae-9bd0-b86bb86ca587"
+        ]
+      },
+      {
+        "office": "ipau",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "unexplained",
+        "n": 1,
+        "example_ids": [
+          "019dfc9b-934f-71d1-811f-d8ef3e634079"
+        ]
+      },
+      {
+        "office": "cipo",
+        "route_group": "direct",
+        "era": "2010s",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019deb4a-e42b-736a-9ba7-992423a7361f"
+        ]
+      },
+      {
+        "office": "cipo",
+        "route_group": "direct",
+        "era": "2020s",
+        "class": "anchor_filing_date",
+        "n": 1,
+        "example_ids": [
+          "019dedb1-a58b-7131-805d-1bda26214bd4"
+        ]
+      },
+      {
+        "office": "cipo",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019dec5b-e4f0-7050-961e-2f7dcc42abe3"
+        ]
+      },
+      {
+        "office": "cipo",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "anchor_filing_date",
+        "n": 1,
+        "example_ids": [
+          "019deae5-bc7f-755e-8fbc-0d172f0dfb86"
+        ]
+      },
+      {
+        "office": "ipi",
+        "route_group": "direct",
+        "era": "2000s",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019ebbd3-10ea-7545-9ca7-428d3b2105f2"
+        ]
+      },
+      {
+        "office": "ipi",
+        "route_group": "direct",
+        "era": "2010s",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019ebbe5-3621-760d-ab80-e215bc1f8702"
+        ]
+      },
+      {
+        "office": "ipi",
+        "route_group": "madrid",
+        "era": "2000s",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019efec5-8733-769c-9e0d-7bdec44a762d"
+        ]
+      },
+      {
+        "office": "ipi",
+        "route_group": "madrid",
+        "era": "pre2000",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019efebb-f2ed-726d-8763-f25165da858d"
+        ]
+      },
+      {
+        "office": "ipos",
+        "route_group": "madrid",
+        "era": "2020s",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019df67e-527a-774c-b782-4eb2ca84af8a"
+        ]
+      },
+      {
+        "office": "prv",
+        "route_group": "direct",
+        "era": "2000s",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019e4e64-3d7a-730e-977c-4dafe121a7b4"
+        ]
+      },
+      {
+        "office": "prv",
+        "route_group": "madrid",
+        "era": "pre2000",
+        "class": "anchor_ir_parent_verified",
+        "n": 1,
+        "example_ids": [
+          "019e4e2a-06a9-72be-b253-2d465d75f580"
+        ]
+      },
+      {
+        "office": "nipo",
+        "route_group": "direct",
+        "era": "2010s",
+        "class": "anchor_filing_date",
+        "n": 1,
+        "example_ids": [
+          "019e4abf-63c4-7298-a234-f55a1d291f1b"
+        ]
+      }
+    ]
+  },
+  "arm_b": {
+    "total_inconsistent": 5028,
+    "buckets": [
+      {
+        "key": "ipau|direct|pre2000|before_window_>6mo",
+        "n": 1620,
+        "median_distance_days": -810,
+        "example": "019dfb1c-1577-7279-8727-cc7ab35427a1"
+      },
+      {
+        "key": "ipau|direct|pre2000|after_grace_<6mo",
+        "n": 912,
+        "median_distance_days": 134,
+        "example": "019dfaa9-f358-71a9-a521-66718861f438"
+      },
+      {
+        "key": "ipau|direct|pre2000|after_grace_>6mo",
+        "n": 304,
+        "median_distance_days": 1218,
+        "example": "019dfaeb-2fe8-746a-b9d6-be3eeec2b290"
+      },
+      {
+        "key": "prv|direct|pre2000|before_window_<6mo",
+        "n": 230,
+        "median_distance_days": -69,
+        "example": "019e4dbb-4563-7427-be45-8fd33509a5df"
+      },
+      {
+        "key": "uspto|madrid|2000s|before_window_<6mo",
+        "n": 201,
+        "median_distance_days": -63,
+        "example": "019d2a50-c64c-776d-ac6d-5e2405a3c63d"
+      },
+      {
+        "key": "uspto|madrid|2000s|before_window_>6mo",
+        "n": 177,
+        "median_distance_days": -1877,
+        "example": "019d2b59-7257-7328-95fe-8ebfa3f4cbe5"
+      },
+      {
+        "key": "inpi-fr|direct|pre2000|after_grace_<6mo",
+        "n": 173,
+        "median_distance_days": 97,
+        "example": "019e3e5d-68fe-70e9-a8a7-7bd20af70bff"
+      },
+      {
+        "key": "ipau|madrid|2000s|before_window_>6mo",
+        "n": 136,
+        "median_distance_days": -1082,
+        "example": "019dfbb3-3c3d-7090-be6e-c3001c8b3a9a"
+      },
+      {
+        "key": "uspto|madrid|2010s|before_window_<6mo",
+        "n": 129,
+        "median_distance_days": -69,
+        "example": "019d2a95-8f44-72e6-900a-1bd8dabfc7f4"
+      },
+      {
+        "key": "cipo|direct|2020s|before_window_>6mo",
+        "n": 125,
+        "median_distance_days": -3502,
+        "example": "019deb76-6182-70d8-90ab-262c6708b4ea"
+      },
+      {
+        "key": "prv|direct|2000s|before_window_<6mo",
+        "n": 97,
+        "median_distance_days": -105,
+        "example": "019e4e56-bf5a-761e-85a3-d9b83b36c950"
+      },
+      {
+        "key": "uspto|madrid|2010s|before_window_>6mo",
+        "n": 96,
+        "median_distance_days": -336,
+        "example": "019d2ab2-65b8-731a-b225-780ea8824d30"
+      },
+      {
+        "key": "prv|direct|pre2000|after_grace_<6mo",
+        "n": 95,
+        "median_distance_days": 27,
+        "example": "019e4db9-037a-7406-b0b6-22da9e4bd0a0"
+      },
+      {
+        "key": "prv|direct|2000s|before_window_>6mo",
+        "n": 91,
+        "median_distance_days": -2133,
+        "example": "019e4e60-892f-739b-8748-373b7fdadda2"
+      },
+      {
+        "key": "prv|direct|pre2000|before_window_>6mo",
+        "n": 51,
+        "median_distance_days": -1001,
+        "example": "019e4d6c-f67a-735a-a968-530510378f65"
+      },
+      {
+        "key": "cipo|direct|2000s|after_grace_>6mo",
+        "n": 46,
+        "median_distance_days": 346,
+        "example": "019de6c5-c144-7007-aa38-545acdc95815"
+      },
+      {
+        "key": "inpi-fr|direct|2000s|after_grace_<6mo",
+        "n": 44,
+        "median_distance_days": 73,
+        "example": "019e3ed7-6668-735b-871a-a2949e7f9468"
+      },
+      {
+        "key": "inpi-fr|direct|pre2000|after_grace_>6mo",
+        "n": 40,
+        "median_distance_days": 288,
+        "example": "019e3e31-2b1b-711c-b429-2c4f60633258"
+      },
+      {
+        "key": "prv|direct|pre2000|after_grace_>6mo",
+        "n": 33,
+        "median_distance_days": 425,
+        "example": "019e4d6b-8bf8-72fa-a0c4-0a904eb3b33a"
+      },
+      {
+        "key": "ipau|madrid|2010s|before_window_>6mo",
+        "n": 32,
+        "median_distance_days": -1293,
+        "example": "019dfbe9-f23e-7702-95e0-ec37cd187297"
+      },
+      {
+        "key": "ipau|direct|pre2000|before_window_<6mo",
+        "n": 30,
+        "median_distance_days": -61,
+        "example": "019dfaa9-f358-71a9-a521-66718861f438"
+      },
+      {
+        "key": "ipau|madrid|2000s|after_grace_>6mo",
+        "n": 29,
+        "median_distance_days": 946,
+        "example": "019dfb8d-feed-762c-a854-09cd63890f5a"
+      },
+      {
+        "key": "ipau|madrid|2000s|after_grace_<6mo",
+        "n": 24,
+        "median_distance_days": 28,
+        "example": "019dfb9b-d026-70fb-8f52-3bdfaf15163a"
+      },
+      {
+        "key": "cipo|direct|2000s|after_grace_<6mo",
+        "n": 24,
+        "median_distance_days": 94,
+        "example": "019decd4-9d20-76df-9445-790b170af3bb"
+      },
+      {
+        "key": "cipo|direct|pre2000|after_grace_>6mo",
+        "n": 24,
+        "median_distance_days": 593,
+        "example": "019dec54-9c0c-72e8-a1c0-da19d621ccdc"
+      },
+      {
+        "key": "cipo|madrid|2020s|before_window_>6mo",
+        "n": 23,
+        "median_distance_days": -2280,
+        "example": "019deb34-e90d-718b-be8b-1d4f636f2c99"
+      },
+      {
+        "key": "cipo|direct|2010s|before_window_>6mo",
+        "n": 22,
+        "median_distance_days": -3491,
+        "example": "019deb70-2701-757d-b471-a2c8d411e890"
+      },
+      {
+        "key": "uspto|madrid|2000s|after_grace_<6mo",
+        "n": 19,
+        "median_distance_days": 100,
+        "example": "019d2a40-16f9-7759-a39e-b3b2a2e18cf9"
+      },
+      {
+        "key": "ipau|madrid|2000s|before_window_<6mo",
+        "n": 19,
+        "median_distance_days": -68,
+        "example": "019dfb69-42ea-720e-abd3-d81395f34a8e"
+      },
+      {
+        "key": "uspto|madrid|2010s|after_grace_<6mo",
+        "n": 18,
+        "median_distance_days": 66,
+        "example": "019d2a40-35fc-7614-83af-e45851f61b3d"
+      },
+      {
+        "key": "inpi-fr|direct|pre2000|before_window_>6mo",
+        "n": 17,
+        "median_distance_days": -1835,
+        "example": "019e3ee7-54f4-71e8-95c7-47da97b425d1"
+      },
+      {
+        "key": "uspto|madrid|2000s|after_grace_>6mo",
+        "n": 12,
+        "median_distance_days": 361,
+        "example": "019d2a28-800e-70ac-8a5f-9ab553c53950"
+      },
+      {
+        "key": "cipo|direct|pre2000|before_window_>6mo",
+        "n": 10,
+        "median_distance_days": -1671,
+        "example": "019deb06-b719-75b0-b0ff-91abda40d82b"
+      },
+      {
+        "key": "inpi-fr|direct|2000s|before_window_>6mo",
+        "n": 9,
+        "median_distance_days": -1993,
+        "example": "019e3ebb-454e-7749-86e3-255700c8e409"
+      },
+      {
+        "key": "cipo|direct|pre2000|before_window_<6mo",
+        "n": 8,
+        "median_distance_days": -50,
+        "example": "019deb25-f5fa-757f-9c56-d48e2d95940c"
+      },
+      {
+        "key": "inpi-fr|direct|2000s|after_grace_>6mo",
+        "n": 7,
+        "median_distance_days": 369,
+        "example": "019e3ebd-40fc-7665-9e48-567c21fd03b7"
+      },
+      {
+        "key": "ipau|direct|2000s|after_grace_<6mo",
+        "n": 7,
+        "median_distance_days": 8,
+        "example": "019dfb9d-b4e0-72b0-a34f-74003fa5a472"
+      },
+      {
+        "key": "ipi|direct|pre2000|after_grace_<6mo",
+        "n": 7,
+        "median_distance_days": 27,
+        "example": "019eb692-74c2-757c-aa38-8f58ff482e96"
+      },
+      {
+        "key": "uspto|direct|pre2000|after_grace_<6mo",
+        "n": 6,
+        "median_distance_days": 2,
+        "example": "019d17f4-3259-73b0-862b-e9cefaba4dba"
+      },
+      {
+        "key": "prv|direct|2000s|after_grace_<6mo",
+        "n": 6,
+        "median_distance_days": 19,
+        "example": "019e4e20-ee4c-722c-ae28-340b3ab987db"
+      },
+      {
+        "key": "prv|madrid|pre2000|after_grace_<6mo",
+        "n": 6,
+        "median_distance_days": 22,
+        "example": "019e4e31-2311-770d-9b25-5559e786fb27"
+      },
+      {
+        "key": "uspto|direct|2000s|after_grace_<6mo",
+        "n": 5,
+        "median_distance_days": 1,
+        "example": "019d1de2-ccab-71ea-a0db-3d12df6ab5d4"
+      },
+      {
+        "key": "uspto|direct|pre2000|before_window_<6mo",
+        "n": 5,
+        "median_distance_days": -27,
+        "example": "019d18fe-38c1-70c5-8b2d-0c7eaf73f251"
+      },
+      {
+        "key": "uspto|madrid|2010s|after_grace_>6mo",
+        "n": 5,
+        "median_distance_days": 724,
+        "example": "019d2aa8-c38b-740d-8a91-224dc6534517"
+      },
+      {
+        "key": "cipo|direct|pre2000|after_grace_<6mo",
+        "n": 5,
+        "median_distance_days": 73,
+        "example": "019dec59-675c-7723-8428-be9f04b5abe9"
+      },
+      {
+        "key": "prv|madrid|pre2000|after_grace_>6mo",
+        "n": 5,
+        "median_distance_days": 338,
+        "example": "019e4e37-36f9-70be-ad82-5eda4e4523e1"
+      },
+      {
+        "key": "uspto|direct|2020s|before_window_>6mo",
+        "n": 4,
+        "median_distance_days": -5603,
+        "example": "019d1c2a-7206-702e-9729-01a438294eb4"
+      },
+      {
+        "key": "uspto|direct|pre2000|before_window_>6mo",
+        "n": 4,
+        "median_distance_days": -1070,
+        "example": "019d14a9-ec5b-72ad-8760-d07f74b19f2d"
+      },
+      {
+        "key": "uspto|madrid|2020s|before_window_<6mo",
+        "n": 4,
+        "median_distance_days": -150,
+        "example": "019d2aea-aca3-71af-83bf-b097d5f39a0c"
+      },
+      {
+        "key": "inpi-fr|direct|2010s|after_grace_<6mo",
+        "n": 4,
+        "median_distance_days": 61,
+        "example": "019e3e60-d826-7418-b7b0-c6e195eeeffa"
+      },
+      {
+        "key": "ipau|madrid|2020s|before_window_>6mo",
+        "n": 4,
+        "median_distance_days": -1560,
+        "example": "019dfc69-f0be-73ca-bf97-d90721b7bd58"
+      },
+      {
+        "key": "cipo|direct|2000s|before_window_<6mo",
+        "n": 4,
+        "median_distance_days": -43,
+        "example": "019deb62-179f-75ba-9530-4dfa1814fcd6"
+      },
+      {
+        "key": "ipi|direct|2000s|after_grace_<6mo",
+        "n": 4,
+        "median_distance_days": 26,
+        "example": "019ebbca-d1d4-7005-b96c-068cb9ced6a6"
+      },
+      {
+        "key": "uspto|direct|2010s|after_grace_<6mo",
+        "n": 2,
+        "median_distance_days": 2,
+        "example": "019d2c97-792a-75ad-85fc-6f30000eff50"
+      },
+      {
+        "key": "cipo|direct|2010s|after_grace_<6mo",
+        "n": 2,
+        "median_distance_days": 175,
+        "example": "019deb74-7cae-70d1-962e-125a02125744"
+      },
+      {
+        "key": "cipo|direct|2010s|before_window_<6mo",
+        "n": 2,
+        "median_distance_days": -149,
+        "example": "019dec4b-f332-7039-92d7-a7e28347166e"
+      },
+      {
+        "key": "uspto|direct|pre2000|after_grace_>6mo",
+        "n": 1,
+        "median_distance_days": 1363,
+        "example": "019d14ac-923f-71ca-9939-a9f9b1d6a3f7"
+      },
+      {
+        "key": "uspto|madrid|2020s|before_window_>6mo",
+        "n": 1,
+        "median_distance_days": -331,
+        "example": "019d2aed-ec40-72e9-aff2-f5606ce1ccf3"
+      },
+      {
+        "key": "inpi-fr|direct|2000s|before_window_<6mo",
+        "n": 1,
+        "median_distance_days": -151,
+        "example": "019e3ec9-0109-748b-bd3e-b8dc50843f4e"
+      },
+      {
+        "key": "inpi-fr|direct|pre2000|before_window_<6mo",
+        "n": 1,
+        "median_distance_days": -134,
+        "example": "019e3e77-9a01-721f-a29f-6a58f2c33636"
+      },
+      {
+        "key": "ipau|madrid|2010s|before_window_<6mo",
+        "n": 1,
+        "median_distance_days": -95,
+        "example": "019dfc0b-33fe-7229-b492-ea1a218d4244"
+      },
+      {
+        "key": "ipau|madrid|2010s|after_grace_<6mo",
+        "n": 1,
+        "median_distance_days": 21,
+        "example": "019dfbde-d3be-739a-9852-5fbf22ed5721"
+      },
+      {
+        "key": "ipau|madrid|2010s|after_grace_>6mo",
+        "n": 1,
+        "median_distance_days": 490,
+        "example": "019dfbbe-4879-72d4-b14f-42ae30697a4f"
+      },
+      {
+        "key": "ipi|direct|pre2000|after_grace_>6mo",
+        "n": 1,
+        "median_distance_days": 195,
+        "example": "019ef465-1ea0-71de-ad77-fd2a63e5d8c0"
+      },
+      {
+        "key": "prv|direct|2000s|after_grace_>6mo",
+        "n": 1,
+        "median_distance_days": 198,
+        "example": "019e4e5f-30c3-7415-8920-ecb39e11e33c"
+      },
+      {
+        "key": "prv|direct|2010s|before_window_>6mo",
+        "n": 1,
+        "median_distance_days": -2897,
+        "example": "019e4e95-4b89-725f-8e44-7300390f79cc"
+      }
+    ]
+  }
+}

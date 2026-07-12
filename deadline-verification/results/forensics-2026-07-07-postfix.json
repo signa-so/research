@@ -1,0 +1,879 @@
+{
+  "as_of_date": "2026-07-07",
+  "arm_a": {
+    "total_disagreements": 612,
+    "clusters": [
+      {
+        "office": "ipau",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "legacy_au_7_14",
+        "n": 301,
+        "example_ids": [
+          "019dfb1c-1577-7279-8727-cc7ab35427a1",
+          "019dfaa9-f358-71a9-a521-66718861f438",
+          "019dfaeb-2fe8-746a-b9d6-be3eeec2b290",
+          "019dfa89-aa18-769f-9685-67046524dd38",
+          "019dfa84-6614-766c-90f0-90e3f0f6a97e"
+        ]
+      },
+      {
+        "office": "ipau",
+        "route_group": "madrid",
+        "era": "2000s",
+        "class": "anchor_ir_parent_verified",
+        "n": 67,
+        "example_ids": [
+          "019dfbb3-3c3d-7090-be6e-c3001c8b3a9a",
+          "019dfb8d-feed-762c-a854-09cd63890f5a",
+          "019dfba6-df1e-7495-8c7c-c2dd70543adb",
+          "019dfb5c-6755-752e-85a5-181f2adba7db",
+          "019dfb64-cfab-74dd-bc53-852b13a52e6b"
+        ]
+      },
+      {
+        "office": "ipau",
+        "route_group": "madrid",
+        "era": "2010s",
+        "class": "anchor_ir_parent_verified",
+        "n": 48,
+        "example_ids": [
+          "019dfbe1-9bc3-77cd-8cc4-9ea54f82f558",
+          "019dfc02-4124-7454-8f82-a68a57183fe6",
+          "019dfbe9-f23e-7702-95e0-ec37cd187297",
+          "019dfc36-7e7f-7268-af25-52fad3691194",
+          "019dfbec-78f0-744c-8bca-6a13ae2d4960"
+        ]
+      },
+      {
+        "office": "cipo",
+        "route_group": "madrid",
+        "era": "2020s",
+        "class": "anchor_ir_parent_verified",
+        "n": 47,
+        "example_ids": [
+          "019deb2f-0b05-740b-8fde-9c647229d1ff",
+          "019deb40-80d6-770c-b88d-7293975bcdf0",
+          "019deb34-e90d-718b-be8b-1d4f636f2c99",
+          "019deb4b-61af-734a-b288-80e79ad61d1f",
+          "019deb39-c59e-7096-919d-73b140cdc798"
+        ]
+      },
+      {
+        "office": "ipau",
+        "route_group": "madrid",
+        "era": "2020s",
+        "class": "anchor_ir_parent_verified",
+        "n": 44,
+        "example_ids": [
+          "019dfc8f-3f5a-7038-bb26-3b4da3cbb61b",
+          "019dfc68-194c-747b-9d2d-052dd751be4a",
+          "019dfc5e-65bf-731c-8eef-6645136d0803",
+          "019dfc79-ee1e-7071-832a-54354c537e37",
+          "019dfc9f-6383-7008-a453-6c86b0bfbe59"
+        ]
+      },
+      {
+        "office": "wipo",
+        "route_group": "madrid",
+        "era": "pre2000",
+        "class": "anchor_filing_date",
+        "n": 12,
+        "example_ids": [
+          "019db631-1a85-72e8-b8cc-d2c46aa4882f",
+          "019d5bd0-5714-735b-8e58-06b26636400f",
+          "019f31e9-d3e4-75cf-99cc-fc12e55c1ba3",
+          "019f3241-d1c6-746e-8332-70ad04c208d0",
+          "019f3218-e1c7-72af-be38-cc3a04b0e5e6"
+        ]
+      },
+      {
+        "office": "inpi-fr",
+        "route_group": "direct",
+        "era": "2000s",
+        "class": "anchor_prior_filing_cycle",
+        "n": 9,
+        "example_ids": [
+          "019e3e64-b199-765c-817e-e865d8e4a0bc",
+          "019e3e2a-c135-7001-a9af-51feed9a13e2",
+          "019e3e00-c810-7276-b956-8deb1d9c86b2",
+          "019e3e92-5b05-767c-ac8c-e893f93b305c",
+          "019e3ea4-ec0a-75cf-a0e2-5acf11bea488"
+        ]
+      },
+      {
+        "office": "inpi-fr",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "anchor_prior_filing_cycle",
+        "n": 9,
+        "example_ids": [
+          "019e3e16-5378-70ef-bd7a-d128933ac6c8",
+          "019e3e1a-b089-76cc-a606-983f04785133",
+          "019e3e2f-9ec4-71a9-b75c-a7074650541f",
+          "019e3eb7-40c2-7311-acf6-ea4761cf87e3",
+          "019e3e61-ed9b-73ff-bf04-9f5433b3caea"
+        ]
+      },
+      {
+        "office": "wipo",
+        "route_group": "madrid",
+        "era": "2000s",
+        "class": "anchor_filing_date",
+        "n": 8,
+        "example_ids": [
+          "019f33bd-6053-71e5-988c-88d51b04a124",
+          "019d5bcf-459b-73f9-9eb9-56c8d3b96867",
+          "019f342c-5ed8-733c-98e1-f5beced3811e",
+          "019f33d6-ea6e-77f8-adb2-e1fa62a18445",
+          "019f2fc0-6e0d-735a-b952-f921d54643cd"
+        ]
+      },
+      {
+        "office": "wipo",
+        "route_group": "madrid",
+        "era": "2010s",
+        "class": "anchor_filing_date",
+        "n": 6,
+        "example_ids": [
+          "019f30ec-e761-70ac-93b9-46a6b7ab36f4",
+          "019f30e4-1a89-779e-b10b-1170144b316a",
+          "019f3023-c2e0-767f-81ee-d68ce7c08f2a",
+          "019f302b-f393-7618-baf0-4a22483a003e",
+          "019f3047-6e6f-71f1-8b1e-13ed2e70a288"
+        ]
+      },
+      {
+        "office": "inpi-fr",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "unexplained",
+        "n": 6,
+        "example_ids": [
+          "019e3ee9-75c4-7451-ac88-62802a04d3d6",
+          "019e3df7-202d-72a4-8814-39eba1e98afb",
+          "019e3ee5-ba42-74d0-9080-4bdcd3d11673",
+          "019e3ebb-c29f-737d-9678-a12208e74344",
+          "019e3e5d-e336-731a-8ced-1428a28ae614",
+          "019e3e85-6548-7340-9bb9-1c973eee5fb2"
+        ]
+      },
+      {
+        "office": "nipo",
+        "route_group": "direct",
+        "era": "2000s",
+        "class": "anchor_filing_date",
+        "n": 6,
+        "example_ids": [
+          "019e4ac8-ea45-77d6-a5a1-17215a697efc",
+          "019e4abf-674d-7143-844e-649e816084c1",
+          "019e4b0b-9706-73df-a353-f787c7c890df",
+          "019e4af3-4dd6-7528-9a23-5f64de9960d3",
+          "019e4ac6-a43f-7329-8b4f-15a15e4438f1"
+        ]
+      },
+      {
+        "office": "prv",
+        "route_group": "direct",
+        "era": "2020s",
+        "class": "anchor_filing_date",
+        "n": 5,
+        "example_ids": [
+          "019e4ebe-ff52-72ad-ab00-c024b8c555bf",
+          "019e4ea2-3569-745a-878c-47711471c253",
+          "019e4ea3-b8e9-72ae-9387-795df2f11fca",
+          "019e4ea5-40b2-74ec-ba11-0025ac539ebd",
+          "019e4ea3-b8e8-77af-95e5-77357b273a9b"
+        ]
+      },
+      {
+        "office": "nipo",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "unexplained",
+        "n": 4,
+        "example_ids": [
+          "019e4af7-24e5-72fd-970e-a548c37c5147",
+          "019e4b9d-4946-723f-9ecf-5d7274b0e871",
+          "019e4b99-3b45-72c4-98f3-82898dc81481",
+          "019e4b1c-a0ed-7570-94bb-a3acfa3f0d12"
+        ]
+      },
+      {
+        "office": "inpi-fr",
+        "route_group": "direct",
+        "era": "2000s",
+        "class": "off_by_1_2",
+        "n": 3,
+        "example_ids": [
+          "019e3ee1-250a-73b9-bef3-ff5e81d7c456",
+          "019e3ed4-8fa9-759b-b023-f3adfd6dd6e9",
+          "019e3ead-9ede-77ab-a146-810b23c54fcf"
+        ]
+      },
+      {
+        "office": "inpi-fr",
+        "route_group": "direct",
+        "era": "2000s",
+        "class": "unexplained",
+        "n": 3,
+        "example_ids": [
+          "019e3ec9-0109-748b-bd3e-b8dc50843f4e",
+          "019e3e2a-4717-73a6-8142-ce292151faf8",
+          "019e3e88-b618-7168-b4c3-a93ddcd9272a"
+        ]
+      },
+      {
+        "office": "ipau",
+        "route_group": "madrid",
+        "era": "2000s",
+        "class": "off_by_1_2",
+        "n": 3,
+        "example_ids": [
+          "019dfb9b-9f79-7753-9c6c-6c76a90c4247",
+          "019dfbb1-5220-7399-bdb1-73dbfab39128",
+          "019dfb5b-b505-77e2-9d74-7552ae8987ae"
+        ]
+      },
+      {
+        "office": "uspto",
+        "route_group": "direct",
+        "era": "2020s",
+        "class": "unexplained",
+        "n": 2,
+        "example_ids": [
+          "019d1c2a-7206-702e-9729-01a438294eb4",
+          "019d2a35-7c32-75eb-8242-5c947ba193a7"
+        ]
+      },
+      {
+        "office": "euipo",
+        "route_group": "madrid",
+        "era": "2010s",
+        "class": "off_by_1_2",
+        "n": 2,
+        "example_ids": [
+          "019d48be-2f3a-771a-819d-208c89a30667",
+          "019d4922-3d76-70fa-911d-9cceaa9928c8"
+        ]
+      },
+      {
+        "office": "cipo",
+        "route_group": "direct",
+        "era": "2010s",
+        "class": "legacy_ca_15",
+        "n": 2,
+        "example_ids": [
+          "019deb4e-8d11-71a0-b967-54a09c62bb06",
+          "019deb4d-65fe-77ab-bbb3-24413932617f"
+        ]
+      },
+      {
+        "office": "cipo",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "unexplained",
+        "n": 2,
+        "example_ids": [
+          "019deae7-c758-730a-a66f-69f13e75e0d4",
+          "019deae7-b060-7056-b46e-1c413421391a"
+        ]
+      },
+      {
+        "office": "cipo",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "legacy_ca_15",
+        "n": 2,
+        "example_ids": [
+          "019deb75-8620-75c3-b476-746267bfd188",
+          "019deae5-b213-70ae-9fef-e43fc447c509"
+        ]
+      },
+      {
+        "office": "ipi",
+        "route_group": "madrid",
+        "era": "2010s",
+        "class": "off_by_1_2",
+        "n": 2,
+        "example_ids": [
+          "019ec56d-6af6-76f8-988c-1001ee809908",
+          "019efeb0-7057-74a7-a7d9-7afb4b754b3f"
+        ]
+      },
+      {
+        "office": "nipo",
+        "route_group": "direct",
+        "era": "2000s",
+        "class": "unexplained",
+        "n": 2,
+        "example_ids": [
+          "019e4b76-c109-7064-9799-12380fa6c36a",
+          "019e4b3e-0ae3-710f-b74c-1cb7fe272754"
+        ]
+      },
+      {
+        "office": "nipo",
+        "route_group": "madrid",
+        "era": "pre2000",
+        "class": "anchor_ir_parent_verified",
+        "n": 2,
+        "example_ids": [
+          "019e4adb-801f-74e8-a573-140cbdea568c",
+          "019e4adc-8f70-70bd-acd1-c58688e60848"
+        ]
+      },
+      {
+        "office": "uspto",
+        "route_group": "direct",
+        "era": "2010s",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019d2948-3b05-7454-81a1-7c52992c0479"
+        ]
+      },
+      {
+        "office": "inpi-fr",
+        "route_group": "direct",
+        "era": "2010s",
+        "class": "anchor_prior_filing_cycle",
+        "n": 1,
+        "example_ids": [
+          "019e3eab-d3be-770b-923a-36b4d643e4d4"
+        ]
+      },
+      {
+        "office": "inpi-fr",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019e3e90-b36d-76ae-9bd0-b86bb86ca587"
+        ]
+      },
+      {
+        "office": "ipau",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "unexplained",
+        "n": 1,
+        "example_ids": [
+          "019dfc9b-934f-71d1-811f-d8ef3e634079"
+        ]
+      },
+      {
+        "office": "cipo",
+        "route_group": "direct",
+        "era": "2010s",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019deb4a-e42b-736a-9ba7-992423a7361f"
+        ]
+      },
+      {
+        "office": "cipo",
+        "route_group": "direct",
+        "era": "2020s",
+        "class": "anchor_filing_date",
+        "n": 1,
+        "example_ids": [
+          "019dedb1-a58b-7131-805d-1bda26214bd4"
+        ]
+      },
+      {
+        "office": "cipo",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019dec5b-e4f0-7050-961e-2f7dcc42abe3"
+        ]
+      },
+      {
+        "office": "cipo",
+        "route_group": "direct",
+        "era": "pre2000",
+        "class": "anchor_filing_date",
+        "n": 1,
+        "example_ids": [
+          "019deae5-bc7f-755e-8fbc-0d172f0dfb86"
+        ]
+      },
+      {
+        "office": "ipi",
+        "route_group": "direct",
+        "era": "2000s",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019ebbd3-10ea-7545-9ca7-428d3b2105f2"
+        ]
+      },
+      {
+        "office": "ipi",
+        "route_group": "direct",
+        "era": "2010s",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019ebbe5-3621-760d-ab80-e215bc1f8702"
+        ]
+      },
+      {
+        "office": "ipi",
+        "route_group": "madrid",
+        "era": "2000s",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019efec5-8733-769c-9e0d-7bdec44a762d"
+        ]
+      },
+      {
+        "office": "ipi",
+        "route_group": "madrid",
+        "era": "pre2000",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019efebb-f2ed-726d-8763-f25165da858d"
+        ]
+      },
+      {
+        "office": "prv",
+        "route_group": "direct",
+        "era": "2000s",
+        "class": "off_by_1_2",
+        "n": 1,
+        "example_ids": [
+          "019e4e64-3d7a-730e-977c-4dafe121a7b4"
+        ]
+      },
+      {
+        "office": "prv",
+        "route_group": "madrid",
+        "era": "pre2000",
+        "class": "anchor_ir_parent_verified",
+        "n": 1,
+        "example_ids": [
+          "019e4e2a-06a9-72be-b253-2d465d75f580"
+        ]
+      },
+      {
+        "office": "nipo",
+        "route_group": "direct",
+        "era": "2010s",
+        "class": "anchor_filing_date",
+        "n": 1,
+        "example_ids": [
+          "019e4abf-63c4-7298-a234-f55a1d291f1b"
+        ]
+      }
+    ]
+  },
+  "arm_b": {
+    "total_inconsistent": 5028,
+    "buckets": [
+      {
+        "key": "ipau|direct|pre2000|before_window_>6mo",
+        "n": 1620,
+        "median_distance_days": -810,
+        "example": "019dfb1c-1577-7279-8727-cc7ab35427a1"
+      },
+      {
+        "key": "ipau|direct|pre2000|after_grace_<6mo",
+        "n": 912,
+        "median_distance_days": 134,
+        "example": "019dfaa9-f358-71a9-a521-66718861f438"
+      },
+      {
+        "key": "ipau|direct|pre2000|after_grace_>6mo",
+        "n": 304,
+        "median_distance_days": 1218,
+        "example": "019dfaeb-2fe8-746a-b9d6-be3eeec2b290"
+      },
+      {
+        "key": "prv|direct|pre2000|before_window_<6mo",
+        "n": 230,
+        "median_distance_days": -69,
+        "example": "019e4dbb-4563-7427-be45-8fd33509a5df"
+      },
+      {
+        "key": "uspto|madrid|2000s|before_window_<6mo",
+        "n": 201,
+        "median_distance_days": -63,
+        "example": "019d2a50-c64c-776d-ac6d-5e2405a3c63d"
+      },
+      {
+        "key": "uspto|madrid|2000s|before_window_>6mo",
+        "n": 177,
+        "median_distance_days": -1877,
+        "example": "019d2b59-7257-7328-95fe-8ebfa3f4cbe5"
+      },
+      {
+        "key": "inpi-fr|direct|pre2000|after_grace_<6mo",
+        "n": 173,
+        "median_distance_days": 97,
+        "example": "019e3e5d-68fe-70e9-a8a7-7bd20af70bff"
+      },
+      {
+        "key": "ipau|madrid|2000s|before_window_>6mo",
+        "n": 136,
+        "median_distance_days": -1082,
+        "example": "019dfbb3-3c3d-7090-be6e-c3001c8b3a9a"
+      },
+      {
+        "key": "uspto|madrid|2010s|before_window_<6mo",
+        "n": 129,
+        "median_distance_days": -69,
+        "example": "019d2a95-8f44-72e6-900a-1bd8dabfc7f4"
+      },
+      {
+        "key": "cipo|direct|2020s|before_window_>6mo",
+        "n": 125,
+        "median_distance_days": -3502,
+        "example": "019deb76-6182-70d8-90ab-262c6708b4ea"
+      },
+      {
+        "key": "prv|direct|2000s|before_window_<6mo",
+        "n": 97,
+        "median_distance_days": -105,
+        "example": "019e4e56-bf5a-761e-85a3-d9b83b36c950"
+      },
+      {
+        "key": "uspto|madrid|2010s|before_window_>6mo",
+        "n": 96,
+        "median_distance_days": -336,
+        "example": "019d2ab2-65b8-731a-b225-780ea8824d30"
+      },
+      {
+        "key": "prv|direct|pre2000|after_grace_<6mo",
+        "n": 95,
+        "median_distance_days": 27,
+        "example": "019e4db9-037a-7406-b0b6-22da9e4bd0a0"
+      },
+      {
+        "key": "prv|direct|2000s|before_window_>6mo",
+        "n": 91,
+        "median_distance_days": -2133,
+        "example": "019e4e60-892f-739b-8748-373b7fdadda2"
+      },
+      {
+        "key": "prv|direct|pre2000|before_window_>6mo",
+        "n": 51,
+        "median_distance_days": -1001,
+        "example": "019e4d6c-f67a-735a-a968-530510378f65"
+      },
+      {
+        "key": "cipo|direct|2000s|after_grace_>6mo",
+        "n": 46,
+        "median_distance_days": 346,
+        "example": "019de6c5-c144-7007-aa38-545acdc95815"
+      },
+      {
+        "key": "inpi-fr|direct|2000s|after_grace_<6mo",
+        "n": 44,
+        "median_distance_days": 73,
+        "example": "019e3ed7-6668-735b-871a-a2949e7f9468"
+      },
+      {
+        "key": "inpi-fr|direct|pre2000|after_grace_>6mo",
+        "n": 40,
+        "median_distance_days": 288,
+        "example": "019e3e31-2b1b-711c-b429-2c4f60633258"
+      },
+      {
+        "key": "prv|direct|pre2000|after_grace_>6mo",
+        "n": 33,
+        "median_distance_days": 425,
+        "example": "019e4d6b-8bf8-72fa-a0c4-0a904eb3b33a"
+      },
+      {
+        "key": "ipau|madrid|2010s|before_window_>6mo",
+        "n": 32,
+        "median_distance_days": -1293,
+        "example": "019dfbe9-f23e-7702-95e0-ec37cd187297"
+      },
+      {
+        "key": "ipau|direct|pre2000|before_window_<6mo",
+        "n": 30,
+        "median_distance_days": -61,
+        "example": "019dfaa9-f358-71a9-a521-66718861f438"
+      },
+      {
+        "key": "ipau|madrid|2000s|after_grace_>6mo",
+        "n": 29,
+        "median_distance_days": 946,
+        "example": "019dfb8d-feed-762c-a854-09cd63890f5a"
+      },
+      {
+        "key": "ipau|madrid|2000s|after_grace_<6mo",
+        "n": 24,
+        "median_distance_days": 28,
+        "example": "019dfb9b-d026-70fb-8f52-3bdfaf15163a"
+      },
+      {
+        "key": "cipo|direct|2000s|after_grace_<6mo",
+        "n": 24,
+        "median_distance_days": 94,
+        "example": "019decd4-9d20-76df-9445-790b170af3bb"
+      },
+      {
+        "key": "cipo|direct|pre2000|after_grace_>6mo",
+        "n": 24,
+        "median_distance_days": 593,
+        "example": "019dec54-9c0c-72e8-a1c0-da19d621ccdc"
+      },
+      {
+        "key": "cipo|madrid|2020s|before_window_>6mo",
+        "n": 23,
+        "median_distance_days": -2280,
+        "example": "019deb34-e90d-718b-be8b-1d4f636f2c99"
+      },
+      {
+        "key": "cipo|direct|2010s|before_window_>6mo",
+        "n": 22,
+        "median_distance_days": -3491,
+        "example": "019deb70-2701-757d-b471-a2c8d411e890"
+      },
+      {
+        "key": "uspto|madrid|2000s|after_grace_<6mo",
+        "n": 19,
+        "median_distance_days": 100,
+        "example": "019d2a40-16f9-7759-a39e-b3b2a2e18cf9"
+      },
+      {
+        "key": "ipau|madrid|2000s|before_window_<6mo",
+        "n": 19,
+        "median_distance_days": -68,
+        "example": "019dfb69-42ea-720e-abd3-d81395f34a8e"
+      },
+      {
+        "key": "uspto|madrid|2010s|after_grace_<6mo",
+        "n": 18,
+        "median_distance_days": 66,
+        "example": "019d2a40-35fc-7614-83af-e45851f61b3d"
+      },
+      {
+        "key": "inpi-fr|direct|pre2000|before_window_>6mo",
+        "n": 17,
+        "median_distance_days": -1835,
+        "example": "019e3ee7-54f4-71e8-95c7-47da97b425d1"
+      },
+      {
+        "key": "uspto|madrid|2000s|after_grace_>6mo",
+        "n": 12,
+        "median_distance_days": 361,
+        "example": "019d2a28-800e-70ac-8a5f-9ab553c53950"
+      },
+      {
+        "key": "cipo|direct|pre2000|before_window_>6mo",
+        "n": 10,
+        "median_distance_days": -1671,
+        "example": "019deb06-b719-75b0-b0ff-91abda40d82b"
+      },
+      {
+        "key": "inpi-fr|direct|2000s|before_window_>6mo",
+        "n": 9,
+        "median_distance_days": -1993,
+        "example": "019e3ebb-454e-7749-86e3-255700c8e409"
+      },
+      {
+        "key": "cipo|direct|pre2000|before_window_<6mo",
+        "n": 8,
+        "median_distance_days": -50,
+        "example": "019deb25-f5fa-757f-9c56-d48e2d95940c"
+      },
+      {
+        "key": "inpi-fr|direct|2000s|after_grace_>6mo",
+        "n": 7,
+        "median_distance_days": 369,
+        "example": "019e3ebd-40fc-7665-9e48-567c21fd03b7"
+      },
+      {
+        "key": "ipau|direct|2000s|after_grace_<6mo",
+        "n": 7,
+        "median_distance_days": 8,
+        "example": "019dfb9d-b4e0-72b0-a34f-74003fa5a472"
+      },
+      {
+        "key": "ipi|direct|pre2000|after_grace_<6mo",
+        "n": 7,
+        "median_distance_days": 27,
+        "example": "019eb692-74c2-757c-aa38-8f58ff482e96"
+      },
+      {
+        "key": "uspto|direct|pre2000|after_grace_<6mo",
+        "n": 6,
+        "median_distance_days": 2,
+        "example": "019d17f4-3259-73b0-862b-e9cefaba4dba"
+      },
+      {
+        "key": "prv|direct|2000s|after_grace_<6mo",
+        "n": 6,
+        "median_distance_days": 19,
+        "example": "019e4e20-ee4c-722c-ae28-340b3ab987db"
+      },
+      {
+        "key": "prv|madrid|pre2000|after_grace_<6mo",
+        "n": 6,
+        "median_distance_days": 22,
+        "example": "019e4e31-2311-770d-9b25-5559e786fb27"
+      },
+      {
+        "key": "uspto|direct|2000s|after_grace_<6mo",
+        "n": 5,
+        "median_distance_days": 1,
+        "example": "019d1de2-ccab-71ea-a0db-3d12df6ab5d4"
+      },
+      {
+        "key": "uspto|direct|pre2000|before_window_<6mo",
+        "n": 5,
+        "median_distance_days": -27,
+        "example": "019d18fe-38c1-70c5-8b2d-0c7eaf73f251"
+      },
+      {
+        "key": "uspto|madrid|2010s|after_grace_>6mo",
+        "n": 5,
+        "median_distance_days": 724,
+        "example": "019d2aa8-c38b-740d-8a91-224dc6534517"
+      },
+      {
+        "key": "cipo|direct|pre2000|after_grace_<6mo",
+        "n": 5,
+        "median_distance_days": 73,
+        "example": "019dec59-675c-7723-8428-be9f04b5abe9"
+      },
+      {
+        "key": "prv|madrid|pre2000|after_grace_>6mo",
+        "n": 5,
+        "median_distance_days": 338,
+        "example": "019e4e37-36f9-70be-ad82-5eda4e4523e1"
+      },
+      {
+        "key": "uspto|direct|2020s|before_window_>6mo",
+        "n": 4,
+        "median_distance_days": -5603,
+        "example": "019d1c2a-7206-702e-9729-01a438294eb4"
+      },
+      {
+        "key": "uspto|direct|pre2000|before_window_>6mo",
+        "n": 4,
+        "median_distance_days": -1070,
+        "example": "019d14a9-ec5b-72ad-8760-d07f74b19f2d"
+      },
+      {
+        "key": "uspto|madrid|2020s|before_window_<6mo",
+        "n": 4,
+        "median_distance_days": -150,
+        "example": "019d2aea-aca3-71af-83bf-b097d5f39a0c"
+      },
+      {
+        "key": "inpi-fr|direct|2010s|after_grace_<6mo",
+        "n": 4,
+        "median_distance_days": 61,
+        "example": "019e3e60-d826-7418-b7b0-c6e195eeeffa"
+      },
+      {
+        "key": "ipau|madrid|2020s|before_window_>6mo",
+        "n": 4,
+        "median_distance_days": -1560,
+        "example": "019dfc69-f0be-73ca-bf97-d90721b7bd58"
+      },
+      {
+        "key": "cipo|direct|2000s|before_window_<6mo",
+        "n": 4,
+        "median_distance_days": -43,
+        "example": "019deb62-179f-75ba-9530-4dfa1814fcd6"
+      },
+      {
+        "key": "ipi|direct|2000s|after_grace_<6mo",
+        "n": 4,
+        "median_distance_days": 26,
+        "example": "019ebbca-d1d4-7005-b96c-068cb9ced6a6"
+      },
+      {
+        "key": "uspto|direct|2010s|after_grace_<6mo",
+        "n": 2,
+        "median_distance_days": 2,
+        "example": "019d2c97-792a-75ad-85fc-6f30000eff50"
+      },
+      {
+        "key": "cipo|direct|2010s|after_grace_<6mo",
+        "n": 2,
+        "median_distance_days": 175,
+        "example": "019deb74-7cae-70d1-962e-125a02125744"
+      },
+      {
+        "key": "cipo|direct|2010s|before_window_<6mo",
+        "n": 2,
+        "median_distance_days": -149,
+        "example": "019dec4b-f332-7039-92d7-a7e28347166e"
+      },
+      {
+        "key": "uspto|direct|pre2000|after_grace_>6mo",
+        "n": 1,
+        "median_distance_days": 1363,
+        "example": "019d14ac-923f-71ca-9939-a9f9b1d6a3f7"
+      },
+      {
+        "key": "uspto|madrid|2020s|before_window_>6mo",
+        "n": 1,
+        "median_distance_days": -331,
+        "example": "019d2aed-ec40-72e9-aff2-f5606ce1ccf3"
+      },
+      {
+        "key": "inpi-fr|direct|2000s|before_window_<6mo",
+        "n": 1,
+        "median_distance_days": -151,
+        "example": "019e3ec9-0109-748b-bd3e-b8dc50843f4e"
+      },
+      {
+        "key": "inpi-fr|direct|pre2000|before_window_<6mo",
+        "n": 1,
+        "median_distance_days": -134,
+        "example": "019e3e77-9a01-721f-a29f-6a58f2c33636"
+      },
+      {
+        "key": "ipau|madrid|2010s|before_window_<6mo",
+        "n": 1,
+        "median_distance_days": -95,
+        "example": "019dfc0b-33fe-7229-b492-ea1a218d4244"
+      },
+      {
+        "key": "ipau|madrid|2010s|after_grace_<6mo",
+        "n": 1,
+        "median_distance_days": 21,
+        "example": "019dfbde-d3be-739a-9852-5fbf22ed5721"
+      },
+      {
+        "key": "ipau|madrid|2010s|after_grace_>6mo",
+        "n": 1,
+        "median_distance_days": 490,
+        "example": "019dfbbe-4879-72d4-b14f-42ae30697a4f"
+      },
+      {
+        "key": "ipi|direct|pre2000|after_grace_>6mo",
+        "n": 1,
+        "median_distance_days": 195,
+        "example": "019ef465-1ea0-71de-ad77-fd2a63e5d8c0"
+      },
+      {
+        "key": "prv|direct|2000s|after_grace_>6mo",
+        "n": 1,
+        "median_distance_days": 198,
+        "example": "019e4e5f-30c3-7415-8920-ecb39e11e33c"
+      },
+      {
+        "key": "prv|direct|2010s|before_window_>6mo",
+        "n": 1,
+        "median_distance_days": -2897,
+        "example": "019e4e95-4b89-725f-8e44-7300390f79cc"
+      }
+    ]
+  }
+}

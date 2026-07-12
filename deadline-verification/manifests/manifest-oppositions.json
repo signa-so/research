@@ -1,0 +1,26 @@
+{
+  "cell_cap": 4000,
+  "extracted": "2026-07-11",
+  "offices": {
+    "uspto": {
+      "proceeding_ids_sha256": "95d5c09d0dbbb3bce85865905eecd0f47c4b1ae1f04cffcc4ca227e25c0ee87b",
+      "row_count": 4296
+    },
+    "euipo": {
+      "proceeding_ids_sha256": "f9716aff567844ac149fd26866f8554f4f1c10b045d38c8b4806967628b8e76e",
+      "row_count": 8000
+    },
+    "cipo": {
+      "proceeding_ids_sha256": "cb9b812d8fc7bd69b9ce57cefb866d31cd8d10805524b32618babc591ee3c458",
+      "row_count": 5368
+    },
+    "ipau": {
+      "proceeding_ids_sha256": "31016cd2b196db2b50c75150a82c42bc6fc096a16fc3413a7f5937391e421305",
+      "row_count": 8000
+    },
+    "ipos": {
+      "proceeding_ids_sha256": "4ce074782cd68513408fbc4acabc7efa5d6116ae8380902ddaf15af561166b05",
+      "row_count": 5468
+    }
+  }
+}

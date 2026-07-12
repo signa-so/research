@@ -1,0 +1,230 @@
+{
+  "seed": "tr006-deadline-eval-2026-07-07",
+  "population_cutoff": "2026-07-07T00:00:00Z",
+  "quota_per_stratum": 5000,
+  "frozen_at": "2026-07-08T06:36:28.498Z",
+  "offices": {
+    "uspto": {
+      "sampling_query_sha256": "55cb38ca8711dd4ab922979458ef1f4e24c20776f01c1c5a58c71ea0d6768db5",
+      "record_count": 30002,
+      "record_ids_sha256": "14a9aea14b3cacd88681c4c3d3725b44036c98ede54238acbb8c858e7b1f8271",
+      "strata": {
+        "direct:2000s": 5000,
+        "direct:2010s": 5000,
+        "direct:2020s": 2,
+        "direct:pre2000": 5000,
+        "madrid:2000s": 5000,
+        "madrid:2010s": 5000,
+        "madrid:2020s": 5000
+      },
+      "strata_population": {
+        "direct:2000s": 343903,
+        "direct:2010s": 376644,
+        "direct:2020s": 2,
+        "direct:pre2000": 169609,
+        "madrid:2000s": 11923,
+        "madrid:2010s": 51103,
+        "madrid:2020s": 134026
+      }
+    },
+    "wipo": {
+      "sampling_query_sha256": "1f87a7eb43212a87d92127a5a280a3ea02d80b78344f13e708c7a723f87a5604",
+      "record_count": 20000,
+      "record_ids_sha256": "5efc5a4c4bb295c053d65529a8522410ffe1a54533eda4978fecf971a6b6f89f",
+      "strata": {
+        "madrid:2000s": 5000,
+        "madrid:2010s": 5000,
+        "madrid:2020s": 5000,
+        "madrid:pre2000": 5000
+      },
+      "strata_population": {
+        "madrid:2000s": 281998,
+        "madrid:2010s": 561635,
+        "madrid:2020s": 742517,
+        "madrid:pre2000": 206299
+      }
+    },
+    "inpi-fr": {
+      "sampling_query_sha256": "71df80690d8dcb4dfd065cfc9f378fe061f5d90328a3168a7bcd1321cbe4d4b8",
+      "record_count": 20000,
+      "record_ids_sha256": "38096083986c666827861856d6d7d15f4cd3b939b297285fad4886a2688a3ac5",
+      "strata": {
+        "direct:2000s": 5000,
+        "direct:2010s": 5000,
+        "direct:2020s": 5000,
+        "direct:pre2000": 5000
+      },
+      "strata_population": {
+        "direct:2000s": 107336,
+        "direct:2010s": 437442,
+        "direct:2020s": 594568,
+        "direct:pre2000": 101104
+      }
+    },
+    "euipo": {
+      "sampling_query_sha256": "0444bfc9c9c34da1136811f6d2142a4fd1f176cd5a946b454e5a63d068e08c5d",
+      "record_count": 39391,
+      "record_ids_sha256": "c1a469eddcfd054acbbc9092117a07a677a5f291a2802dea0372fc8ea0a3f574",
+      "strata": {
+        "direct:2000s": 5000,
+        "direct:2010s": 5000,
+        "direct:2020s": 5000,
+        "direct:pre2000": 5000,
+        "madrid:2000s": 5000,
+        "madrid:2010s": 5000,
+        "madrid:2020s": 5000,
+        "madrid:pre2000": 4391
+      },
+      "strata_population": {
+        "direct:2000s": 213394,
+        "direct:2010s": 674413,
+        "direct:2020s": 904718,
+        "direct:pre2000": 27113,
+        "madrid:2000s": 30874,
+        "madrid:2010s": 138524,
+        "madrid:2020s": 154078,
+        "madrid:pre2000": 4391
+      }
+    },
+    "ipau": {
+      "sampling_query_sha256": "ab328f9f573c3fa81ee4109e51c546193f0f4518c2d322997f25f884068d6abb",
+      "record_count": 35000,
+      "record_ids_sha256": "bd0a7e2125eaa0da632ccadb498a26e89d4371dc71aecbac83e4e0b5e2f32b48",
+      "strata": {
+        "direct:2000s": 5000,
+        "direct:2010s": 5000,
+        "direct:2020s": 5000,
+        "direct:pre2000": 5000,
+        "madrid:2000s": 5000,
+        "madrid:2010s": 5000,
+        "madrid:2020s": 5000
+      },
+      "strata_population": {
+        "direct:2000s": 95867,
+        "direct:2010s": 247944,
+        "direct:2020s": 289436,
+        "direct:pre2000": 76174,
+        "madrid:2000s": 29405,
+        "madrid:2010s": 96426,
+        "madrid:2020s": 98216
+      }
+    },
+    "cipo": {
+      "sampling_query_sha256": "f1c2ae843b23b08f0e957e59010f18700e99ee15afeca6e16abddc464b1463fd",
+      "record_count": 25000,
+      "record_ids_sha256": "dcd95a36616062640ec3eb521c6e3a422d8f4a947956a829baec50c2d70977d8",
+      "strata": {
+        "direct:2000s": 5000,
+        "direct:2010s": 5000,
+        "direct:2020s": 5000,
+        "direct:pre2000": 5000,
+        "madrid:2020s": 5000
+      },
+      "strata_population": {
+        "direct:2000s": 105864,
+        "direct:2010s": 293381,
+        "direct:2020s": 277706,
+        "direct:pre2000": 95860,
+        "madrid:2020s": 75791
+      }
+    },
+    "ipi": {
+      "sampling_query_sha256": "08d5eab428b27c2942a9126de964b19fd86924fa5f804213dc26f0659f12df19",
+      "record_count": 40000,
+      "record_ids_sha256": "ac61663b1173f540723f89b618af159294be7b783bb3a1469d19708718413ab8",
+      "strata": {
+        "direct:2000s": 5000,
+        "direct:2010s": 5000,
+        "direct:2020s": 5000,
+        "direct:pre2000": 5000,
+        "madrid:2000s": 5000,
+        "madrid:2010s": 5000,
+        "madrid:2020s": 5000,
+        "madrid:pre2000": 5000
+      },
+      "strata_population": {
+        "direct:2000s": 42298,
+        "direct:2010s": 92382,
+        "direct:2020s": 109088,
+        "direct:pre2000": 36340,
+        "madrid:2000s": 49289,
+        "madrid:2010s": 100480,
+        "madrid:2020s": 97358,
+        "madrid:pre2000": 50735
+      }
+    },
+    "ipos": {
+      "sampling_query_sha256": "ee659fe550b473151762a63a581f88f87befcd9b5b769482e82e54a7d90d5da1",
+      "record_count": 35040,
+      "record_ids_sha256": "3b198c269be7cceea193279a838cd5a85f4163986e2f1135b1b3171b5d8d1fc3",
+      "strata": {
+        "direct:2000s": 5000,
+        "direct:2010s": 5000,
+        "direct:2020s": 5000,
+        "direct:pre2000": 5000,
+        "madrid:2000s": 5000,
+        "madrid:2010s": 5000,
+        "madrid:2020s": 5000,
+        "madrid:pre2000": 40
+      },
+      "strata_population": {
+        "direct:2000s": 58770,
+        "direct:2010s": 75665,
+        "direct:2020s": 102021,
+        "direct:pre2000": 27648,
+        "madrid:2000s": 32921,
+        "madrid:2010s": 61956,
+        "madrid:2020s": 78326,
+        "madrid:pre2000": 40
+      }
+    },
+    "prv": {
+      "sampling_query_sha256": "a3df97336ace6058ff3fa523605a0638019cb3d70ad955bb93cca12833b5bd6e",
+      "record_count": 24216,
+      "record_ids_sha256": "69b98948947dc25cc3bcd06c2166a0771a558b8f66a37ac5edb8cbb89b4c8eae",
+      "strata": {
+        "direct:2000s": 5000,
+        "direct:2010s": 5000,
+        "direct:2020s": 5,
+        "direct:pre2000": 5000,
+        "madrid:2000s": 3156,
+        "madrid:2010s": 3310,
+        "madrid:pre2000": 2745
+      },
+      "strata_population": {
+        "direct:2000s": 5680,
+        "direct:2010s": 19016,
+        "direct:2020s": 5,
+        "direct:pre2000": 7166,
+        "madrid:2000s": 3156,
+        "madrid:2010s": 3310,
+        "madrid:pre2000": 2745
+      }
+    },
+    "nipo": {
+      "sampling_query_sha256": "d0be94193616e800622b724c7d7b7384110e64ffc97166d8d5f66b686b7c08d9",
+      "record_count": 38247,
+      "record_ids_sha256": "970d9e8e6f5ad5d16fcffbe886ecf5ff2339c99f89ea560dbc970585738ed360",
+      "strata": {
+        "direct:2000s": 5000,
+        "direct:2010s": 5000,
+        "direct:2020s": 5000,
+        "direct:pre2000": 5000,
+        "madrid:2000s": 5000,
+        "madrid:2010s": 5000,
+        "madrid:2020s": 5000,
+        "madrid:pre2000": 3247
+      },
+      "strata_population": {
+        "direct:2000s": 18063,
+        "direct:2010s": 35529,
+        "direct:2020s": 34764,
+        "direct:pre2000": 25981,
+        "madrid:2000s": 29305,
+        "madrid:2010s": 51714,
+        "madrid:2020s": 58992,
+        "madrid:pre2000": 3247
+      }
+    }
+  }
+}
