@@ -26,15 +26,26 @@ against three complementary forms of ground truth: the dates offices publish
 on their own records, 27,562 renewal and maintenance filings that actually
 took place, and 34,132 real opposition proceedings.
 
+How to read the table: the first row is what the API serves; the next two
+score the statutory computation on its own, with the office's date
+withheld; "declared" means the engine stated that it needed the office's
+date rather than guessing (version 1.0, 2026-08-30).
+
 | What was measured | Result |
 |---|---|
-| Full-population exact agreement with office-published dates (primary result) | **96.08%** of 282,393 comparisons |
-| Production-weighted exact agreement, pure statutory computation | **98.55%** |
-| Agreement on the modeled population (post hoc subgroup, exclusions documented) | 99.74% |
-| Office-date-anchored schedule the API serves (uses the office's stated date as an input) | 99.89% |
-| Observed renewal and maintenance filings inside computed windows | **93.1%** (99.4% at USPTO) |
-| Observed opposition filings inside computed opposition windows | **90.2%** (98.1% at EUIPO) |
-| Unexplained residual after classifying every disagreement | **0.001%** (3 records) |
+| Agreement of the schedule the API serves with office-published dates (anchors on the office's stated date where one exists) | **99.89%**, production-weighted |
+| Records either verified exactly or explicitly declared as needing the office's date | **99.69%** of 29,102 |
+| Pure statutory computation, office's date withheld, on the records the engine computes | **99.66%** of 26,607 (99.82% production-weighted) |
+| Records declared rather than guessed (three documented kinds, stated in the product) | 2,495 (8.6%) |
+| Observed renewal and maintenance filings inside computed windows | **94.7%** of 24,091 on computed records (99.4% at USPTO); 93.2% of all 27,562 on the served schedule |
+| Observed opposition filings inside computed opposition windows | **90.2%** of 23,751 (98.2% at EUIPO) |
+| Disagreements remaining after the declared kinds are set aside | 90 records, each classified |
+| Unexplained residual after classifying every disagreement | **3 records** |
+
+Version 0.91 (July 2026) scored the engine's guesses on the declared kinds
+against it; its full-population figure was 96.08% of 282,393 comparisons at
+expanded scale. The v1.0 per-record results are `results/run-2026-08-30-v1.json`
+(office date withheld) and `results/run-2026-08-30-v1-anchored.json` (as served).
 
 The evaluation worked in both directions: it surfaced seven defects in
 Signa's own rules and three in data ingestion (each fixed and published with
